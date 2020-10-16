@@ -1,18 +1,2705 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>/en/sitemap.xml</loc>
-		
-	   	<lastmod>2021-01-01T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/es/sitemap.xml</loc>
-		
-	   	<lastmod>2021-01-01T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/morti-morbilidad_spain_2021/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/morti-morbilidad_spain_2021/" hreflang="es"/>
+    
+      <loc>/en/publication/morti-morbilidad_spain_2021/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2020/climate-animation-of-maximum-temperatures/</loc>
+      <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/glossary_electricity_2020/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/glossary_electricity_2020/" hreflang="es"/>
+    
+      <loc>/en/publication/glossary_electricity_2020/</loc>
+      <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2020/river-flow-directions/</loc>
+      <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2020/a-very-short-introduction-to-tidyverse/</loc>
+      <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/ingresos_cardio_2020/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/ingresos_cardio_2020/" hreflang="es"/>
+    
+      <loc>/en/publication/ingresos_cardio_2020/</loc>
+      <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2020/visualize-climate-anomalies/</loc>
+      <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/drought_class_2020/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/drought_class_2020/" hreflang="es"/>
+    
+      <loc>/en/publication/drought_class_2020/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/incendios_ci_2019/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/incendios_ci_2019/" hreflang="es"/>
+    
+      <loc>/en/publication/incendios_ci_2019/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/era5_esp_2020/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/era5_esp_2020/" hreflang="es"/>
+    
+      <loc>/en/publication/era5_esp_2020/</loc>
+      <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2020/geographic-distance/</loc>
+      <lastmod>2020-01-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/chapter_elsevier_2019/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/chapter_elsevier_2019/" hreflang="es"/>
+    
+      <loc>/en/publication/chapter_elsevier_2019/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/ehf_esp_2020/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/ehf_esp_2020/" hreflang="es"/>
+    
+      <loc>/en/publication/ehf_esp_2020/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2019/visualize-urban-growth/</loc>
+      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/manual_rgis_2019/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/manual_rgis_2019/" hreflang="es"/>
+    
+      <loc>/en/publication/manual_rgis_2019/</loc>
+      <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/ijc_teleconection_medit_2019/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/ijc_teleconection_medit_2019/" hreflang="es"/>
+    
+      <loc>/en/publication/ijc_teleconection_medit_2019/</loc>
+      <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/iam_cantabria_2018/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/iam_cantabria_2018/" hreflang="es"/>
+    
+      <loc>/en/publication/iam_cantabria_2018/</loc>
+      <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2019/visualize-monthly-precipitation-anomalies/</loc>
+      <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/os_tempos_2019/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/os_tempos_2019/" hreflang="es"/>
+    
+      <loc>/en/publication/os_tempos_2019/</loc>
+      <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/ci_pr_2018/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/ci_pr_2018/" hreflang="es"/>
+    
+      <loc>/en/publication/ci_pr_2018/</loc>
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2019/tidy-correlation-tests-in-r/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/synoptreg_2019/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/synoptreg_2019/" hreflang="es"/>
+    
+      <loc>/en/publication/synoptreg_2019/</loc>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/ictus_madrid_2019/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/ictus_madrid_2019/" hreflang="es"/>
+    
+      <loc>/en/publication/ictus_madrid_2019/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2019/import-excel-sheets-with-r/</loc>
+      <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/cloudiness_ip_2018/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/cloudiness_ip_2018/" hreflang="es"/>
+    
+      <loc>/en/publication/cloudiness_ip_2018/</loc>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2019/calculating-the-distance-to-the-sea-in-r/</loc>
+      <lastmod>2019-01-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/alcohol_galicia2018/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/alcohol_galicia2018/" hreflang="es"/>
+    
+      <loc>/en/publication/alcohol_galicia2018/</loc>
+      <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/graphs/climate/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/graphs/climate/" hreflang="es"/>
+    
+      <loc>/en/graphs/climate/</loc>
+      <lastmod>2018-12-15T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/graphs/environment/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/graphs/environment/" hreflang="es"/>
+    
+      <loc>/en/graphs/environment/</loc>
+      <lastmod>2018-12-06T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/graphs/geography/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/graphs/geography/" hreflang="es"/>
+    
+      <loc>/en/graphs/geography/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/graphs/health/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/graphs/health/" hreflang="es"/>
+    
+      <loc>/en/graphs/health/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/graphs/population/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/graphs/population/" hreflang="es"/>
+    
+      <loc>/en/graphs/population/</loc>
+      <lastmod>2018-12-06T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2018/how-to-create-warming-stripes-in-r/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2018/accessing-openstreetmap-data-with-r/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/appliedgeophysics_2017/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/appliedgeophysics_2017/" hreflang="es"/>
+    
+      <loc>/en/publication/appliedgeophysics_2017/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2018/access-to-climate-reanalysis-data-from-r/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/2018/the-pie-chart/</loc>
+      <lastmod>2018-08-22T11:23:32+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/pharma_coru%C3%B1a_2018/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/pharma_coru%C3%B1a_2018/" hreflang="es"/>
+    
+      <loc>/en/publication/pharma_coru%C3%B1a_2018/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/lightning_galicia_2018/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/lightning_galicia_2018/" hreflang="es"/>
+    
+      <loc>/en/publication/lightning_galicia_2018/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/hotnights_bcn_2017/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/hotnights_bcn_2017/" hreflang="es"/>
+    
+      <loc>/en/publication/hotnights_bcn_2017/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/usa_ci_2017/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/usa_ci_2017/" hreflang="es"/>
+    
+      <loc>/en/publication/usa_ci_2017/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/chapter_springer_2017/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/chapter_springer_2017/" hreflang="es"/>
+    
+      <loc>/en/publication/chapter_springer_2017/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/post/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/post/" hreflang="es"/>
+    
+      <loc>/en/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/graphs/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/graphs/" hreflang="es"/>
+    
+      <loc>/en/graphs/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/more/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/more/" hreflang="es"/>
+    
+      <loc>/en/more/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/" hreflang="es"/>
+    
+      <loc>/en/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/cwt_galicia_resp_2016/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/cwt_galicia_resp_2016/" hreflang="es"/>
+    
+      <loc>/en/publication/cwt_galicia_resp_2016/</loc>
+      <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/hotnights_age_2015/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/hotnights_age_2015/" hreflang="es"/>
+    
+      <loc>/en/publication/hotnights_age_2015/</loc>
+      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication/ncdf_2015/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/ncdf_2015/" hreflang="es"/>
+    
+      <loc>/en/publication/ncdf_2015/</loc>
+      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication_types/2/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication_types/2/" hreflang="es"/>
+    
+      <loc>/en/publication_types/2/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication_types/5/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication_types/5/" hreflang="es"/>
+    
+      <loc>/en/publication_types/5/</loc>
+      <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication_types/6/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication_types/6/" hreflang="es"/>
+    
+      <loc>/en/publication_types/6/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/acute-myocardial-infarction/</loc>
+      <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/adolescents/</loc>
+      <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/air-pollutants/</loc>
+      <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/air-temperature/</loc>
+      <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/alcohol/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/alcohol/" hreflang="es"/>
+    
+      <loc>/en/tags/alcohol/</loc>
+      <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/alcohol-outlet-density/</loc>
+      <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/alps/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/alps/" hreflang="es"/>
+    
+      <loc>/en/tags/alps/</loc>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/apparent-temperature/</loc>
+      <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/atmospheric-electric-field/</loc>
+      <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/atmospheric-electricity-phenomena/</loc>
+      <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/biological-effects/</loc>
+      <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/biometeorological-profile/</loc>
+      <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/covid-19/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/covid-19/" hreflang="es"/>
+    
+      <loc>/en/tags/covid-19/</loc>
+      <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/cardiovascular/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/cardiovascular/" hreflang="es"/>
+    
+      <loc>/en/tags/cardiovascular/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/categories/" hreflang="es"/>
+    
+      <loc>/en/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/circulatory-system-diseases/</loc>
+      <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/concentration-index/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/concentration-index/" hreflang="es"/>
+    
+      <loc>/en/tags/concentration-index/</loc>
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/contiguous-united-states/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/contiguous-united-states/" hreflang="es"/>
+    
+      <loc>/en/tags/contiguous-united-states/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/control-capacity/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/control-capacity/" hreflang="es"/>
+    
+      <loc>/en/tags/control-capacity/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/convexity-index/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/convexity-index/" hreflang="es"/>
+    
+      <loc>/en/tags/convexity-index/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/disaster-extreme-wildfire-event-ewe/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/disaster-extreme-wildfire-event-ewe/" hreflang="es"/>
+    
+      <loc>/en/tags/disaster-extreme-wildfire-event-ewe/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/distributed-lag-non-linear-models/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/" hreflang="es"/>
+    
+      <loc>/en/</loc>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/ecmwf/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/ecmwf/" hreflang="es"/>
+    
+      <loc>/en/tags/ecmwf/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/era-5/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/era-5/" hreflang="es"/>
+    
+      <loc>/en/tags/era-5/</loc>
+      <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/eastern-mediterranean/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/eastern-mediterranean/" hreflang="es"/>
+    
+      <loc>/en/tags/eastern-mediterranean/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/environmental-regionalization/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/environmental-regionalization/" hreflang="es"/>
+    
+      <loc>/en/tags/environmental-regionalization/</loc>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/europe/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/fire-intensity/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/fire-intensity/" hreflang="es"/>
+    
+      <loc>/en/tags/fire-intensity/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/gis/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/gis/" hreflang="es"/>
+    
+      <loc>/en/tags/gis/</loc>
+      <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/galicia/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/galicia/" hreflang="es"/>
+    
+      <loc>/en/tags/galicia/</loc>
+      <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/generalized-additive-model/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/generalized-additive-model/" hreflang="es"/>
+    
+      <loc>/en/tags/generalized-additive-model/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/glossary/</loc>
+      <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/heat-excess-factor/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/heat-excess-factor/" hreflang="es"/>
+    
+      <loc>/en/tags/heat-excess-factor/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/hospital-admissions/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/iberian-peninsula/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/iberian-peninsula/" hreflang="es"/>
+    
+      <loc>/en/tags/iberian-peninsula/</loc>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/modis/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/modis/" hreflang="es"/>
+    
+      <loc>/en/tags/modis/</loc>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/madrid/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/madrid/" hreflang="es"/>
+    
+      <loc>/en/tags/madrid/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/mediterranean/</loc>
+      <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/mitigation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/mitigation/" hreflang="es"/>
+    
+      <loc>/en/tags/mitigation/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/mortality/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/ncep-ncar/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/ncep-ncar/" hreflang="es"/>
+    
+      <loc>/en/tags/ncep-ncar/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/net-effective-temperature/</loc>
+      <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/osm/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/osm/" hreflang="es"/>
+    
+      <loc>/en/tags/osm/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/particulate-matter/</loc>
+      <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/point-of-interest/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/portugal/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/portugal/" hreflang="es"/>
+    
+      <loc>/en/tags/portugal/</loc>
+      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/preparedness/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/preparedness/" hreflang="es"/>
+    
+      <loc>/en/tags/preparedness/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/prevention/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/prevention/" hreflang="es"/>
+    
+      <loc>/en/tags/prevention/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication_types/" hreflang="es"/>
+    
+      <loc>/en/publication_types/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/puerto-rico/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/puerto-rico/" hreflang="es"/>
+    
+      <loc>/en/tags/puerto-rico/</loc>
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/categories/r/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/categories/r/" hreflang="es"/>
+    
+      <loc>/en/categories/r/</loc>
+      <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/r/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/r/" hreflang="es"/>
+    
+      <loc>/en/tags/r/</loc>
+      <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/r-package/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/r-package/" hreflang="es"/>
+    
+      <loc>/en/tags/r-package/</loc>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/categories/radvanced/</loc>
+      <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/categories/relementary/</loc>
+      <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/categories/rintermediate/</loc>
+      <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/rate-of-spread/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/rate-of-spread/" hreflang="es"/>
+    
+      <loc>/en/tags/rate-of-spread/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/respiratory/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/socioeconomic-system-ses/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/socioeconomic-system-ses/" hreflang="es"/>
+    
+      <loc>/en/tags/socioeconomic-system-ses/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/spain/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/spain/" hreflang="es"/>
+    
+      <loc>/en/tags/spain/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/synoptic-classification/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/synoptic-classification/" hreflang="es"/>
+    
+      <loc>/en/tags/synoptic-classification/</loc>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/" hreflang="es"/>
+    
+      <loc>/en/tags/</loc>
+      <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/temperature/</loc>
+      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/underage-drinking/</loc>
+      <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/universal-thermal-climate-index/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/universal-thermal-climate-index/" hreflang="es"/>
+    
+      <loc>/en/tags/universal-thermal-climate-index/</loc>
+      <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/wildfire-classification/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/wildfire-classification/" hreflang="es"/>
+    
+      <loc>/en/tags/wildfire-classification/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/access/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/aging/</loc>
+      <lastmod>2018-12-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/air-pollutants/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/animation/</loc>
+      <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/anomalies/</loc>
+      <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/anomaly/</loc>
+      <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/api/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/api/" hreflang="es"/>
+    
+      <loc>/en/tags/api/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/apparent-temperature/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/atmosphere/</loc>
+      <lastmod>2018-12-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/bar/</loc>
+      <lastmod>2018-08-22T11:23:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/big-data/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/big-data/" hreflang="es"/>
+    
+      <loc>/en/tags/big-data/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/boxplot/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/boxplot/" hreflang="es"/>
+    
+      <loc>/en/tags/boxplot/</loc>
+      <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/circular/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/circular/" hreflang="es"/>
+    
+      <loc>/en/tags/circular/</loc>
+      <lastmod>2018-08-22T11:23:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/circulation-types/</loc>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/cities/</loc>
+      <lastmod>2020-01-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/city/</loc>
+      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/classification/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/clima/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/clima/" hreflang="es"/>
+    
+      <loc>/en/tags/clima/</loc>
+      <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/climate/</loc>
+      <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/climate-change/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/climate-change/" hreflang="es"/>
+    
+      <loc>/en/tags/climate-change/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/climate-services/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/climate-services/" hreflang="es"/>
+    
+      <loc>/en/tags/climate-services/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/climatology/</loc>
+      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/climte/</loc>
+      <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/cloud-to-ground-lightning/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/cloud-to-ground-lightning/" hreflang="es"/>
+    
+      <loc>/en/tags/cloud-to-ground-lightning/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/cloudiness/</loc>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/co-creation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/co-creation/" hreflang="es"/>
+    
+      <loc>/en/tags/co-creation/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/concentration-index/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/correlation/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/daily-precipitation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/daily-precipitation/" hreflang="es"/>
+    
+      <loc>/en/tags/daily-precipitation/</loc>
+      <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/data/</loc>
+      <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/database/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/categories/datavis/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/datavis/</loc>
+      <lastmod>2018-12-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/demography/</loc>
+      <lastmod>2018-12-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/digital-divide/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/digital-divide/" hreflang="es"/>
+    
+      <loc>/en/tags/digital-divide/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/directions/</loc>
+      <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/disease/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/distance/</loc>
+      <lastmod>2020-01-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/distribution/</loc>
+      <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/divulgaci%C3%B3n/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/divulgaci%C3%B3n/" hreflang="es"/>
+    
+      <loc>/en/tags/divulgaci%C3%B3n/</loc>
+      <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/download/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/drought/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/drug-sales/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/drug-sales/" hreflang="es"/>
+    
+      <loc>/en/tags/drug-sales/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/dry-spells/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/ecosystem/</loc>
+      <lastmod>2018-12-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/effects/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/effects/" hreflang="es"/>
+    
+      <loc>/en/tags/effects/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/environment/</loc>
+      <lastmod>2018-12-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/era/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/era/" hreflang="es"/>
+    
+      <loc>/en/tags/era/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/estimation/</loc>
+      <lastmod>2019-01-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/excel/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/excel/" hreflang="es"/>
+    
+      <loc>/en/tags/excel/</loc>
+      <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/extreme-precipitation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/extreme-precipitation/" hreflang="es"/>
+    
+      <loc>/en/tags/extreme-precipitation/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/first-post/</loc>
+      <lastmod>2018-08-22T11:23:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/fluvial/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/fluvial/" hreflang="es"/>
+    
+      <loc>/en/tags/fluvial/</loc>
+      <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/gallego/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/gallego/" hreflang="es"/>
+    
+      <loc>/en/tags/gallego/</loc>
+      <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/geography/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/ggplot2/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/ggplot2/" hreflang="es"/>
+    
+      <loc>/en/tags/ggplot2/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/categories/gis/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/categories/gis/" hreflang="es"/>
+    
+      <loc>/en/categories/gis/</loc>
+      <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/global/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/global/" hreflang="es"/>
+    
+      <loc>/en/tags/global/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/global-warming/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/health/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/health/" hreflang="es"/>
+    
+      <loc>/en/tags/health/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/heat/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/heat/" hreflang="es"/>
+    
+      <loc>/en/tags/heat/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/heat-island/</loc>
+      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/heat-wave/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/hospital-admissions/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/hospital-admissions/" hreflang="es"/>
+    
+      <loc>/en/tags/hospital-admissions/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/hot-night/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/hot-night/" hreflang="es"/>
+    
+      <loc>/en/tags/hot-night/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/human/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/human-health/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/human-health/" hreflang="es"/>
+    
+      <loc>/en/tags/human-health/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/import/</loc>
+      <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/interdisciplinarity/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/interdisciplinarity/" hreflang="es"/>
+    
+      <loc>/en/tags/interdisciplinarity/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/interim/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/interim/" hreflang="es"/>
+    
+      <loc>/en/tags/interim/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/introduction/</loc>
+      <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/ischemic-stroke/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/lacunarity/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/categories/management/</loc>
+      <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/manipulation/</loc>
+      <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/manual/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/manual/" hreflang="es"/>
+    
+      <loc>/en/tags/manual/</loc>
+      <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/categories/mapping/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/categories/mapping/" hreflang="es"/>
+    
+      <loc>/en/categories/mapping/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/matrix/</loc>
+      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/morbidity/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/morbidity/" hreflang="es"/>
+    
+      <loc>/en/tags/morbidity/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/mortality/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/mortality/" hreflang="es"/>
+    
+      <loc>/en/tags/mortality/</loc>
+      <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/n-index/</loc>
+      <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/nature/</loc>
+      <lastmod>2018-12-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/ncdf/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/ncdf/" hreflang="es"/>
+    
+      <loc>/en/tags/ncdf/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/netcdf/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/netcdf/" hreflang="es"/>
+    
+      <loc>/en/tags/netcdf/</loc>
+      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/orientation/</loc>
+      <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/overpass-api/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/overpass-api/" hreflang="es"/>
+    
+      <loc>/en/tags/overpass-api/</loc>
+      <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/pharmacoepidemiology/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/pharmacoepidemiology/" hreflang="es"/>
+    
+      <loc>/en/tags/pharmacoepidemiology/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/physical/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/pie-chart/</loc>
+      <lastmod>2018-08-22T11:23:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/points/</loc>
+      <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/pollution/</loc>
+      <lastmod>2018-12-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/population/</loc>
+      <lastmod>2018-01-06T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/precipitation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/precipitation/" hreflang="es"/>
+    
+      <loc>/en/tags/precipitation/</loc>
+      <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/precipitation-indices/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/precipitation-indices/" hreflang="es"/>
+    
+      <loc>/en/tags/precipitation-indices/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/proportions/</loc>
+      <lastmod>2018-08-22T11:23:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/python/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/python/" hreflang="es"/>
+    
+      <loc>/en/tags/python/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/raster/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/raster/" hreflang="es"/>
+    
+      <loc>/en/tags/raster/</loc>
+      <lastmod>2019-01-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/reanalisis/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/reanalisis/" hreflang="es"/>
+    
+      <loc>/en/tags/reanalisis/</loc>
+      <lastmod>2018-09-15T10:59:44+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/reanalysis/</loc>
+      <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/respiratory-cause/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/respiratory-cause/" hreflang="es"/>
+    
+      <loc>/en/tags/respiratory-cause/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/respiratory-diseases/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/respiratory-diseases/" hreflang="es"/>
+    
+      <loc>/en/tags/respiratory-diseases/</loc>
+      <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/river/</loc>
+      <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/sheets/</loc>
+      <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/shortterm-effects/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/shortterm-effects/" hreflang="es"/>
+    
+      <loc>/en/tags/shortterm-effects/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/categories/spatial-analysis/</loc>
+      <lastmod>2020-01-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/spatial-temporal-distribution/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/spatial-temporal-distribution/" hreflang="es"/>
+    
+      <loc>/en/tags/spatial-temporal-distribution/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/spatialtemporal-patterns/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/spatialtemporal-patterns/" hreflang="es"/>
+    
+      <loc>/en/tags/spatialtemporal-patterns/</loc>
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/spatio-temporal-patterns/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/categories/statistics/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/synoptreg/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/synoptreg/" hreflang="es"/>
+    
+      <loc>/en/tags/synoptreg/</loc>
+      <lastmod>2019-04-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/teleconnection/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/teleconnection-patterns/</loc>
+      <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/temperature/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/temperature/" hreflang="es"/>
+    
+      <loc>/en/tags/temperature/</loc>
+      <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/tempo/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/tempo/" hreflang="es"/>
+    
+      <loc>/en/tags/tempo/</loc>
+      <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/tests/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/tests/" hreflang="es"/>
+    
+      <loc>/en/tags/tests/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/thermal-environment/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/thermal-environment/" hreflang="es"/>
+    
+      <loc>/en/tags/thermal-environment/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/thermic-stress/</loc>
+      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/thunderstorm/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/thunderstorm/" hreflang="es"/>
+    
+      <loc>/en/tags/thunderstorm/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/tidy/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/categories/tidyverse/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/categories/tidyverse/" hreflang="es"/>
+    
+      <loc>/en/categories/tidyverse/</loc>
+      <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/transdisciplinarity/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/transdisciplinarity/" hreflang="es"/>
+    
+      <loc>/en/tags/transdisciplinarity/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/treemap/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/treemap/" hreflang="es"/>
+    
+      <loc>/en/tags/treemap/</loc>
+      <lastmod>2018-08-22T11:23:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/trend/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/trend/" hreflang="es"/>
+    
+      <loc>/en/tags/trend/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/tropical-night/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/tropical-night/" hreflang="es"/>
+    
+      <loc>/en/tags/tropical-night/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/urban-geography/</loc>
+      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/urban-growth/</loc>
+      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/variable/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/variable/" hreflang="es"/>
+    
+      <loc>/en/tags/variable/</loc>
+      <lastmod>2019-01-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/variables/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/variables/" hreflang="es"/>
+    
+      <loc>/en/tags/variables/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/visualisation/</loc>
+      <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/categories/visualization/</loc>
+      <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/visualization/</loc>
+      <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/waffle/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/waffle/" hreflang="es"/>
+    
+      <loc>/en/tags/waffle/</loc>
+      <lastmod>2018-08-22T11:23:32+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/warming-stripes/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/warming-stripes/" hreflang="es"/>
+    
+      <loc>/en/tags/warming-stripes/</loc>
+      <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/weather/</loc>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/weather-stations/</loc>
+      <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/weather-type/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/weather-type/" hreflang="es"/>
+    
+      <loc>/en/tags/weather-type/</loc>
+      <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/en/tags/weather-types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/tags/weather-types/" hreflang="es"/>
+    
+      <loc>/en/tags/weather-types/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/wildfire/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/world/</loc>
+      <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
