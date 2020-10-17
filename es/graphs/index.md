@@ -14,5 +14,5 @@ Here is an example how to do it in MarkDown for user HTenkanen:
 
 Add here links to the maps that you have created:
 
- - [Link to test map](https://github.com/alexrsanchez/alexrsanchez.github.io/blob/main/es/graphs/test_map.html)
+ - [Link to test map](https://alexrsanchez.github.io/es/graphs/test_map.html)
  - https://github.com/alexrsanchez/alexrsanchez.github.io/blob/main/es/graphs/test_map.html
