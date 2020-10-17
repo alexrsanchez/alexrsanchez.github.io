@@ -15,4 +15,4 @@ Here is an example how to do it in MarkDown for user HTenkanen:
 Add here links to the maps that you have created:
 
  - [Link to test map](https://automating-gis-processes.github.io/exercise-5-HTenkanen/test_map.html)
- - https://github.com/Automating-GIS-processes/Exercise-5/blob/master/docs/test_map.html
+ - https://github.com/alexrsanchez/alexrsanchez.github.io/blob/main/es/graphs/test_map.html
