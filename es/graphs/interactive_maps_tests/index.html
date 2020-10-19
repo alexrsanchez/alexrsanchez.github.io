@@ -11,7 +11,7 @@
 <h1 id="entrance-page">Entrance page</h1>
 <p><strong>PÁGINA EN MANTENIMIENTO</strong></p>
 <p>This page is an index.html page which is a typical starting point for all web pages. Esto es una prueba para crear un mapa con leaflet</p>
-
+<p>Last updated: 19-oct-2020</p>
 </body>
 
 <head>
@@ -65,7 +65,10 @@
     var marker = L.marker([37.0490398, -4.8825273]).bindPopup("<img src='" + icon_url + "' width=500 height=350/>",
                                                               {maxWidth: "auto", maxHeight: "auto"}).addTo(map);
    
-
+    var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/Temperaturasmoviles365yanomalias_SierradeYeguas.png";
+    var marker = L.marker([37.1250513, -4.8680497]).bindPopup("<img src='" + icon_url + "' width=500 height=350/>",
+                                                              {maxWidth: "auto", maxHeight: "auto"}).addTo(map);
+   
 </script>
 
 </body>
