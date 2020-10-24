@@ -730,19 +730,19 @@ url('/img/headers/rivers.png')
   
   
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Dr. Dominic Royé">
+    <meta itemprop="name" content="Alejandro Rodríguez Sánchez">
   </span>
   
 
   <span class="article-date">
     
-    <meta content="2018-12-15 00:00:00 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2018-12-15 00:00:00 &#43;0100 CET" itemprop="dateModified">
-      2018-12-15
+    <meta content="2020-10-19 00:00:00 &#43;0100 CET" itemprop="datePublished">
+    <time datetime="2020-10-21 00:00:00 &#43;0100 CET" itemprop="dateModified">
+      2020-10-21
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Dr. Dominic Royé">
+    <meta itemprop="name" content="Alejandro Rodríguez Sánchez">
   </span>
 
   
@@ -750,7 +750,7 @@ url('/img/headers/rivers.png')
   
   
   <span class="middot-divider"></span>
-  <a href="/en/graphs/climate/#disqus_thread"></a>
+  <a href="/en/graphs/interactive_365dayMA_map/#disqus_thread"></a>
   
 
   
@@ -764,7 +764,7 @@ url('/img/headers/rivers.png')
   
   
   <h3 class="article-title" itemprop="headline">
-    <a href="/en/graphs/climate/" itemprop="url">Climate and Weather</a>
+    <a href="/en/graphs/interactive_365dayMA_map/" itemprop="url">Interactive map: 365-day Moving Average Temperatures</a>
   </h3>
   <div class="article-style" itemprop="articleBody">
     
@@ -772,8 +772,8 @@ url('/img/headers/rivers.png')
     
   </div>
   <p class="read-more" itemprop="mainEntityOfPage">
-    <a href="/en/graphs/climate/" class="btn btn-outline-primary my-1">
-      CONTINUE READING
+    <a href="/en/graphs/interactive_365dayMA_map/" class="btn btn-outline-primary my-1">
+      SEE INTERACTIVE MAP
     </a>
   </p>
 </div>
@@ -814,7 +814,7 @@ url('/img/headers/rivers.png')
   
   
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Dr. Dominic Royé">
+    <meta itemprop="name" content="Alejandro Rodríguez Sánchez">
   </span>
   
 
@@ -822,13 +822,13 @@ url('/img/headers/rivers.png')
     
         Last updated on
     
-    <meta content="2018-12-15 00:00:00 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2018-12-06 00:00:00 &#43;0100 CET" itemprop="dateModified">
-      2018-12-06
+    <meta content="2020-10-20 00:00:00 &#43;0100 CET" itemprop="datePublished">
+    <time datetime="2020-10-23 00:00:00 &#43;0100 CET" itemprop="dateModified">
+      2020-10-23
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Dr. Dominic Royé">
+    <meta itemprop="name" content="Alejandro Rodríguez Sánchez">
   </span>
 
   
@@ -836,7 +836,7 @@ url('/img/headers/rivers.png')
   
   
   <span class="middot-divider"></span>
-  <a href="/en/graphs/environment/#disqus_thread"></a>
+  <a href="/en/graphs/SPEI_interactive_map/#disqus_thread"></a>
   
 
   
@@ -850,7 +850,7 @@ url('/img/headers/rivers.png')
   
   
   <h3 class="article-title" itemprop="headline">
-    <a href="/en/graphs/interactive_maps/" itemprop="url">Interactive maps</a>
+    <a href="/en/graphs/SPEI_interactive_map/" itemprop="url">Interactive map: SPEI index</a>
   </h3>
   <div class="article-style" itemprop="articleBody">
     
@@ -858,8 +858,8 @@ url('/img/headers/rivers.png')
     
   </div>
   <p class="read-more" itemprop="mainEntityOfPage">
-    <a href="/en/graphs/interactive_maps/" class="btn btn-outline-primary my-1">
-      CONTINUE READING
+    <a href="/en/graphs/SPEI_interactive_map/" class="btn btn-outline-primary my-1">
+      SEE INTERACTIVE MAP
     </a>
   </p>
 </div>
@@ -915,7 +915,7 @@ url('/img/headers/rivers.png')
         <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   <span itemprop="author">
-    C Iñiguez, D Royé, A Tobías</span>
+    Nothing to see here</span>
   (2021).
   <a href="/en/publication/morti-morbilidad_spain_2021/" itemprop="name">Contrasting patterns of temperature related mortality and hospitalization by cardiovascular and respiratory diseases in 52 Spanish cities</a>.
   En <em>Environmental Research, 192:110191</em>.
@@ -1214,7 +1214,7 @@ url('/img/headers/rivers.png')
           
         
         <li>
-          <a itemprop="sameAs" href="https://www.researchgate.net/profile/Alejandro_Rodriguez" target="_blank" rel="noopener">
+          <a itemprop="sameAs" href="https://www.researchgate.net/profile/Alejandro_Rodriguez127" target="_blank" rel="noopener">
             <i class="ai ai-researchgate big-icon"></i>
           </a>
         </li>
