@@ -19,7 +19,7 @@
   <meta name="description" content="Alejandro Rodríguez Sánchez's personal webpage - climate data | A climate scientist's life overview">
 
   
-  <link rel="alternate" hreflang="es" href="/es/">
+  <link rel="alternate" hreflang="en" href="/es/">
   
   <link rel="alternate" hreflang="en-us" href="/en/">
 
@@ -99,8 +99,8 @@
   
 
   
-  <link rel="alternate" href="/en/index.xml" type="application/rss+xml" title="Dominic Royé">
-  <link rel="feed" href="/en/index.xml" type="application/rss+xml" title="Dominic Royé">
+  <link rel="alternate" href="/en/index.xml" type="application/rss+xml" title="Alejandro Rodríguez Sánchez">
+  <link rel="feed" href="/en/index.xml" type="application/rss+xml" title="Alejandro Rodríguez Sánchez">
   
 
   <link rel="manifest" href="/site.webmanifest">
@@ -124,7 +124,7 @@
   <meta property="og:description" content="Alejandro Rodríguez Sánchez's personal webpage - climate data | A climate scientist's life overview"><meta property="og:image" content="/img/foto_alex.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2017-10-15T00:00:00&#43;02:00">
+  <meta property="og:updated_time" content="2020-10-21T00:00:00&#43;02:00">
   
 
   
@@ -294,9 +294,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/en/#teaching" data-target="#teaching">
+          <a class="nav-link" href="/en/#about" data-target="#about">
             
-            <span>more</span>
+            <span>me</span>
             
           </a>
         </li>
@@ -313,9 +313,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/en/#about" data-target="#about">
+          <a class="nav-link" href="/en/#teaching" data-target="#teaching">
             
-            <span>me</span>
+            <span>more</span>
             
           </a>
         </li>
@@ -381,12 +381,12 @@
 
 <section id="hero" class="hero-overlay" style="
 
-background-color: #ffff;
+background-color: #666;
 
 
 background-image:
 linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), 
-url('/img/headers/rivers.png')
+url('/img/headers/alagon_rio.png')
 
 ;">
 
@@ -422,12 +422,12 @@ url('/img/headers/rivers.png')
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
 
-    <h1>Recent Posts</h1>
+    <h1>Recent posts</h1>
     
     
     <p class="view-all">
       <a href="/en/post/">
-        More Posts
+        More posts
         <i class="fas fa-angle-double-right"></i>
       </a>
     </p>
@@ -473,19 +473,19 @@ url('/img/headers/rivers.png')
   
   
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Alejandro Rodríguez Sánchez">
+    <meta itemprop="name" content="Alejandro Rodríguez Sánchez's personal webpage - climate data | A climate scientist's life overview">
   </span>
   
 
   <span class="article-date">
     
-    <meta content="2020-10-11 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2020-10-11 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+    <meta content="2020-10-16 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2020-10-16 00:00:00 &#43;0000 UTC" itemprop="dateModified">
       2020-10-11
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Alejandro Rodríguez Sánchez">
+    <meta itemprop="name" content="Dr. Dominic Royé">
   </span>
 
   
@@ -493,7 +493,7 @@ url('/img/headers/rivers.png')
   
   
   <span class="middot-divider"></span>
-  <a href="/en/2020/climate-animation-of-maximum-temperatures/#disqus_thread"></a>
+  <a href="/en/2020/animaci%C3%B3n-clim%C3%A1tica-de-la-temperatura-m%C3%A1xima/#disqus_thread"></a>
   
 
   
@@ -503,11 +503,11 @@ url('/img/headers/rivers.png')
   <span class="article-categories">
     <i class="fas fa-folder"></i>
     
-    <a href="/en/categories/visualization/">visualization</a>, 
+    <a href="/en/categories/visualizaci%C3%B3n/">visualización</a>, 
     
     <a href="/en/categories/r/">R</a>, 
     
-    <a href="/en/categories/radvanced/">R:advanced</a>
+    <a href="/en/categories/ravanzado/">R:avanzado</a>
     
   </span>
   
@@ -522,20 +522,20 @@ url('/img/headers/rivers.png')
   
   
   
-  <a href="/en/2020/climate-animation-of-maximum-temperatures/">
-      <img src="/en/2020/climate-animation-of-maximum-temperatures/featured_hu93dfd35c95b36af5dd3f447930c96c21_247222_918x517_fill_q90_box_smart1_2.png" class="article-banner" itemprop="image" alt="">
+  <a href="/en/2020/animaci%C3%B3n-clim%C3%A1tica-de-la-temperatura-m%C3%A1xima/">
+      <img src="/en/2020/animaci%C3%B3n-clim%C3%A1tica-de-la-temperatura-m%C3%A1xima/featured_hu489609a00b49c5a99012c5d8dcb18b2c_246222_918x517_fill_q90_box_smart1_2.png" class="article-banner" itemprop="image" alt="">
   </a>
   
   <h3 class="article-title" itemprop="headline">
-    <a href="/en/2020/climate-animation-of-maximum-temperatures/" itemprop="url">Climate animation of maximum temperatures</a>
+    <a href="/en/2020/animaci%C3%B3n-clim%C3%A1tica-de-la-temperatura-m%C3%A1xima/" itemprop="url">Animación climática de la temperatura máxima</a>
   </h3>
   <div class="article-style" itemprop="articleBody">
     
-    <p>In the field of data visualization, the animation of spatial data in its temporal dimension can show fascinating changes and patterns. As a result of one of the last publications in the social networks that I have made, I was asked to make a post about how I created it. Well, here we go to start with an example of data from mainland Spain.</p>
+    <p>En el campo de la visualización de datos, la animación de datos espaciales en su dimensión temporal lleva a mostrar cambios y patrones fascinantes y muy visuales. A raíz de una de las últimas publicaciones que he realizado en los RRSS me pidieron que hiciera un post acerca de cómo lo creé. Pues bien, aquí vamos para empezar con datos de la España peninsular.</p>
     
   </div>
   <p class="read-more" itemprop="mainEntityOfPage">
-    <a href="/en/2020/climate-animation-of-maximum-temperatures/" class="btn btn-outline-primary my-1">
+    <a href="/en/2020/animaci%C3%B3n-clim%C3%A1tica-de-la-temperatura-m%C3%A1xima/" class="btn btn-outline-primary my-1">
       CONTINUE READING
     </a>
   </p>
@@ -580,7 +580,7 @@ url('/img/headers/rivers.png')
   
   
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Alejandro Rodríguez Sánchez">
+    <meta itemprop="name" content="Dr. Dominic Royé">
   </span>
   
 
@@ -600,7 +600,7 @@ url('/img/headers/rivers.png')
   
   
   <span class="middot-divider"></span>
-  <a href="/en/2020/river-flow-directions/#disqus_thread"></a>
+  <a href="/en/2020/direcciones-del-flujo-fluvial/#disqus_thread"></a>
   
 
   
@@ -610,11 +610,11 @@ url('/img/headers/rivers.png')
   <span class="article-categories">
     <i class="fas fa-folder"></i>
     
-    <a href="/en/categories/gis/">gis</a>, 
+    <a href="/en/categories/sig/">sig</a>, 
     
     <a href="/en/categories/r/">R</a>, 
     
-    <a href="/en/categories/radvanced/">R:advanced</a>
+    <a href="/en/categories/ravanzado/">R:avanzado</a>
     
   </span>
   
@@ -629,20 +629,20 @@ url('/img/headers/rivers.png')
   
   
   
-  <a href="/en/2020/river-flow-directions/">
-      <img src="/en/2020/river-flow-directions/featured_hu6f0ab3e4def1f473c5ed71797e177e68_651656_918x517_fill_q90_box_smart1.jpg" class="article-banner" itemprop="image" alt="">
+  <a href="/es/2020/direcciones-del-flujo-fluvial/">
+      <img src="/es/2020/direcciones-del-flujo-fluvial/featured_hu6f0ab3e4def1f473c5ed71797e177e68_651656_918x517_fill_q90_box_smart1.jpg" class="article-banner" itemprop="image" alt="">
   </a>
   
   <h3 class="article-title" itemprop="headline">
-    <a href="/en/2020/river-flow-directions/" itemprop="url">River flow directions</a>
+    <a href="/es/2020/direcciones-del-flujo-fluvial/" itemprop="url">Direcciones del flujo fluvial</a>
   </h3>
   <div class="article-style" itemprop="articleBody">
     
-    <p>I recently created a visualization of the distribution of river flow directions and also of coastal orientations. Following its publication in social networks, I was asked to make a post about how I did it. Well, here we go to start with an example of rivers, coastal orientation is somewhat more complex.</p>
+    <p>Recientemente creé una visualización de la distribución de las direcciones del flujo fluvial y  también de las orientaciones costeras. A raíz de su publicación en los RRSS me pidieron que hiciera un post acerca de cómo lo hice. Pues bien, aquí vamos para empezar con un ejemplo de los ríos, la orientación costera es algo más compleja.</p>
     
   </div>
   <p class="read-more" itemprop="mainEntityOfPage">
-    <a href="/en/2020/river-flow-directions/" class="btn btn-outline-primary my-1">
+    <a href="/es/2020/direcciones-del-flujo-fluvial/" class="btn btn-outline-primary my-1">
       CONTINUE READING
     </a>
   </p>
@@ -682,7 +682,7 @@ url('/img/headers/rivers.png')
     
     <p class="view-all">
       <a href="/en/graphs/">
-        More Graphs
+        More graphs
         <i class="fas fa-angle-double-right"></i>
       </a>
     </p>
@@ -721,7 +721,7 @@ url('/img/headers/rivers.png')
       
         
           
-
+          
 <div class="card-simple" itemscope itemprop="bloggraphs" itemtype="http://schema.org/Bloggraphsing">
   
 
@@ -730,15 +730,18 @@ url('/img/headers/rivers.png')
   
   
   <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Alejandro Rodríguez Sánchez">
+    <meta itemprop="name" content="Dr. Dominic Royé">
   </span>
   
 
   <span class="article-date">
+     
+      Última actualización el
+    
     
     <meta content="2020-10-19 00:00:00 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2020-10-21 00:00:00 &#43;0100 CET" itemprop="dateModified">
-      2020-10-21
+    <time datetime="2020-10-22 00:00:00 &#43;0100 CET" itemprop="dateModified">
+      2020-10-22
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -764,7 +767,7 @@ url('/img/headers/rivers.png')
   
   
   <h3 class="article-title" itemprop="headline">
-    <a href="/en/graphs/interactive_365dayMA_map/" itemprop="url">Interactive map: 365-day Moving Average Temperatures</a>
+    <a href="/en/graphs/interactive_365dayMA_map/" itemprop="url">Interactive map: 365-day Moving Average temperatures</a>
   </h3>
   <div class="article-style" itemprop="articleBody">
     
@@ -806,6 +809,7 @@ url('/img/headers/rivers.png')
         
           
 
+  
 <div class="card-simple" itemscope itemprop="bloggraphs" itemtype="http://schema.org/Bloggraphsing">
   
 
@@ -822,9 +826,9 @@ url('/img/headers/rivers.png')
     
         Last updated on
     
-    <meta content="2020-10-20 00:00:00 &#43;0100 CET" itemprop="datePublished">
+    <meta content="2020-10-19 00:00:00 &#43;0100 CET" itemprop="datePublished">
     <time datetime="2020-10-23 00:00:00 &#43;0100 CET" itemprop="dateModified">
-      2020-10-23
+      2020-10-24
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -893,8 +897,8 @@ url('/img/headers/rivers.png')
     
     
     <p class="view-all">
-      <a href="/en/publication/">
-        More Publications
+      <a href="/es/publication/">
+        More publications
         <i class="fas fa-angle-double-right"></i>
       </a>
     </p>
@@ -915,168 +919,17 @@ url('/img/headers/rivers.png')
         <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   <span itemprop="author">
-    Nothing to see here</span>
-  (2021).
-  <a href="/en/publication/morti-morbilidad_spain_2021/" itemprop="name">Contrasting patterns of temperature related mortality and hospitalization by cardiovascular and respiratory diseases in 52 Spanish cities</a>.
-  En <em>Environmental Research, 192:110191</em>.
-  
-  <p>
+    Nothing to see here yet!</span>
 
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.envres.2020.110191" target="_blank" rel="noopener">
-    
-    10.1016/j.envres.2020.110191
-  </a>
-
-</p>
 </div>
 
       
     
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    P Fdez-Arroyabe, K Kourtidis, C Haldoupis, et al.</span>
-  (2020).
-  <a href="/en/publication/glossary_electricity_2020/" itemprop="name">Glossary on atmospheric electricity and its effects on biology</a>.
-  En <em>Int J Biometeorol, Online First</em>.
-  
-  <p>
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s00484-020-02013-9" target="_blank" rel="noopener">
-    
-    10.1007/s00484-020-02013-9
-  </a>
-
-</p>
-</div>
+     
 
       
     
       
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    A Santurtún, R Almendra, P Fdez-Arroyabe, A Sanchez-Lorenzo, D Royé, MT Zarrabeitia, P Santana</span>
-  (2020).
-  <a href="/en/publication/ingresos_cardio_2020/" itemprop="name">Predictive value of three thermal confort indices in low temperatures on cardiovascular morbidity in the Iberian Peninsula</a>.
-  En <em>Science of The Total Environment, 729:138969</em>.
-  
-  <p>
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.scitotenv.2020.138969" target="_blank" rel="noopener">
-    
-    10.1016/j.scitotenv.2020.138969
-  </a>
-
-</p>
-</div>
-
       
     
 
@@ -1103,7 +956,10 @@ url('/img/headers/rivers.png')
     
   </div>
   <div class="col-12 col-lg-8">
-    <p><a href="https://www.r-bloggers.com/" target="_blank"><img src="/img/R_02_2016-05-01.png" width="50%" style="float:left;padding-right:1em;"/></a><a href="https://xeo81.shinyapps.io/MeteoExtremosGalicia/" target="_blank"><img src="/img/logo_app.jpg" width="50%" style="float:left;"/></a></p>
+    <p><a href="https://www.ciemat.es/" target="_blank"><img src="/img/logo-ciemat.jpg" width="75%" style="float:left;padding-right:1em;"/></a></p>
+
+<!--- [![](/img/R_02_2016-05-01.png)](https://www.r-bloggers.com/) [![](/img/logo_app.jpg)](https://xeo81.shinyapps.io/MeteoExtremosGalicia/) --->
+</p>
 
     
 
@@ -1244,16 +1100,13 @@ url('/img/headers/rivers.png')
 
     
 
-<h1 id="about-me">About me</h1>
+<h1 id="about-me">Sobre mí</h1>
 
-<p>I am a climate scientist and actually, I am post-doctoral fellow at the University of Santiago de Compostela. I am originally from Grevenbroich, near by Cologne, in Germany. I graduated in Geography and Hispanic Philology at the University of Cologne and RWTH-Aachen University in 2010. After I met my wife in Galicia, I came to Santiago de Compostela, in northwest Spain, and made my Ph.D. in 2015 about the relationship between health and weather at the same University. Now I live in the fantastic city of Porto in Portugal.</p>
+<p>I am a 22-year-old meteorologist. I am originally from Campillos, a little town in the province of Málaga in southern Spain, but nowadays I live in the city of Madrid. I graduated in Physics at Universidad Autónoma de Madrid in July 2019. After that, I succesfully complete a Master's degree in Meteorology and Geophysics at Universidad Complutense de Madrid, which I finished in July 2020. During the Master's degree I work at Centro de Investigaciones Medioambientales y Tecnológicas (CIEMAT) where I did my Master's degree thesis about urban heat mitigation strategies and its effects in pollution concentration levels in the city of Madrid by doing WRF-model simulations.
+<p>The main lines of research ar urban meteorology and biometeorology and also the spatio-temporal evolution of the Urban Heat Island (UHI) effect and the effect of climate change on its properties.</p>
 
-<p>The main lines of research are, on the one hand, biometeorology and geographies of health, the relationship between human health and the atmospheric environment, and on the other hand, applied physical geography with a focus on atmospheric variables and their spatio-temporal behaviors.</p>
-
-<p>I am an enthusiastic R user, with a lot of curiosity for spatial analysis, data visualizations, management and manipulation, and GIS.</p>
-
-<p>I am a member of the <a href="http://www.usc.es/saudep/" target="_blank">Public Health Research Group</a> at the University of Santiago de Compostela. In addition, I am a close collaborator
-of two other research groups, <a href="https://geobiomet.es/" target="_blank">Geobiomet</a> at the University of Cantabria and <a href="http://www.ub.edu/gc/" target="_blank">Climatology Group</a> at the University of Barcelona. Since 2019 I am a member of the <a href="http://mccstudy.lshtm.ac.uk/" target="_blank">MCC Collaborative Research Network</a>, an international research program on the associations between environmental stressors, climate, and health.</p>
+<p>Soy un empedernido usuario de Python, siempre intentando aprender más sobre el análisis espacial, la visualizaciones, gestión y la manipulación de datos, y GIS.</p>
+<p>I am an enthusiastic Python user, always trying to learn something new about it and about spatial analysis, data visualizations, management and manipulation, and GIS.</p>
 
 <p>Feel free to contact me.</p>
 
@@ -1265,19 +1118,19 @@ of two other research groups, <a href="https://geobiomet.es/" target="_blank">Ge
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>applied climatology</li>
+          <li>Urban meteorology</li>
           
-          <li>physical geography</li>
+          <li>Biometeorology</li>
           
-          <li>biometeorology</li>
+          <li>Urban Heat Island effect</li>
           
-          <li>public health</li>
+          <li>Public health</li>
           
-          <li>geographic information systems</li>
+          <li>Geographic Information Systems</li>
           
-          <li>R programming</li>
+          <li>Python programming</li>
           
-          <li>data management, manipulation and visualization</li>
+          <li>Data management, manipulation and visualization</li>
           
         </ul>
       </div>
@@ -1291,16 +1144,16 @@ of two other research groups, <a href="https://geobiomet.es/" target="_blank">Ge
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in Physical Geography, 2015</p>
-              <p class="institution">University of Santiago de Compostela, Spain</p>
+              <p class="course">MSc in Meteorology and Geophysics, 2020</p>
+              <p class="institution">Universidad Complutense de Madrid, España</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">Geography and Hispanic Philology, 2010</p>
-              <p class="institution">University of Cologne | RWTH-Aachen University, Germany</p>
+              <p class="course">Physics, 2019</p>
+              <p class="institution">Universidad Autónoma de Madrid, España</p>
             </div>
           </li>
           
@@ -1333,25 +1186,23 @@ of two other research groups, <a href="https://geobiomet.es/" target="_blank">Ge
   <div class="col-12 col-lg-8">
     
 
-<h2 id="projects">Projects</h2>
+<p>[2019-2022] AVODIS - Understanding and building on the social context of rural Portugal to prevent wildfire disasters. (Universidad de Porto)</p>
 
-<p>[2019-2022] AVODIS - Understanding and building on the social context of rural Portugal to prevent wildfire disasters. (University of Porto)</p>
+<p>[2020-2021] Efecto a corto plazo del calor y frío en el uso de medicamentos respiratorios. Un estudio ecológico de series temporales. (DRO-ANT-2020-01, AEMPS) (Universidad de Santiago de Compostela)</p>
 
-<p>[2020-2021] Short-term effect of heat and cold on the use of respiratory medications. An ecological study of time series. (DRO-ANT-2020-01, AEMPS) (Universidad de Santiago de Compostela)</p>
-
-<p>[2018-2020] CLICES- CLImate of the last CEntury in Spanish mainland. (University of Barcelona, University of Zaragoza, CSIC)</p>
+<p>[2018-2020] CLICES- CLImate of the last CEntury in Spanish mainland. (Universidad de Barcelona, Universidad de Zaragoza, CSIC)</p>
 
 <p>[2017-2020] ELECTRONET - Atmospheric Electricity Network: coupling with the Earth System, climate and biological systems. <a href="https://www.atmospheric-electricity-net.eu/" target="_blank">info</a> (Cost Action 15211)</p>
 
-<p>[2016-2019] FIREXTR - Prevent and prepare society for extreme fire events: the challenge of seeing the forest and not just the trees. <a href="http://firextr.pt/" target="_blank">info</a> (University of Porto)</p>
+<p>[2016-2019] FIREXTR - Prevent and prepare society for extreme fire events: the challenge of seeing the forest and not just the trees. <a href="http://firextr.pt/" target="_blank">info</a> (Universidad de Porto)</p>
 
-<p>[2018-2020] Prevalence of consumption of alcohol, cannabis and other drugs in students between 14 and 18 years of age in Lugo. (University of Santiago de Compostela)</p>
+<p>[2018-2020] Prevalencia do consumo de alcohol, cannabis e outras drogas en estudantes entre 14 e 18 anos da cidade de Lugo. (Universidad de Santiago de Compostela)</p>
 
-<p>[2017-2019] MEDEA3 - Study of socioeconomic and environmental inequalities in the geographical distribution of mortality in large cities (1996-2015). <a href="http://www.isciii.es/ISCIII/es/contenidos/fd-el-instituto/fd-comunicacion/fd-noticias/20181123_El_Proyecto_MEDEA_3_persigue_obtener_fotografia_mortalidad_ciudades.shtml" target="_blank">info</a> (Multicenter Research Project)</p>
+<p>[2017-2019] MEDEA3 - Estudio de las desigualdades socioeconómicas y medioambientales en la distribución geográfica de la mortalidad en grandes ciudades (1996-2015). <a href="http://www.isciii.es/ISCIII/es/contenidos/fd-el-instituto/fd-comunicacion/fd-noticias/20181123_El_Proyecto_MEDEA_3_persigue_obtener_fotografia_mortalidad_ciudades.shtml" target="_blank">info</a> (Proyecto nacional multicéntrico)</p>
 
-<p>[2017-2019] Intensive alcohol consumption: characterization of a new trajectory towards alcoholism. (University of Santiago de Compostela)</p>
+<p>[2017-2019] Consumo intensivo de alcohol: caracterización de una nueva trayectoria hacia el alcoholismo. (Universidad de Santiago de Compostela)</p>
 
-<p>[2014-2016] Biometeorological approach to study the spatial variability of influenza in the Iberian Peninsula. (University of Cantabria)</p>
+<p>[2014-2016] Aproximación biometeorologica al estudio de la variabilidad espacial de la gripe en la península ibérica. (Universidad de Cantabria)</p>
 
 <hr />
 
@@ -1361,33 +1212,33 @@ of two other research groups, <a href="https://geobiomet.es/" target="_blank">Ge
 <li>2019</li>
 </ul>
 
-<p>Introduction in Geographic Information Systems and Cartography with R [15h] (Summer School, Universitat Politècnica de Catalunya)</p>
+<p>Introducción en Sistemas de Información Geográfica y Cartografía con el entorno R [15h] (Summer School, Universitat Politècnica de Catalunya)</p>
 
-<p>Introduction in Geographic Information Systems and Cartography with R, II Edition [15h] (Summer School, University of Santiago de Compostela)</p>
+<p>Introducción en Sistemas de Información Geográfica y Cartografía con el entorno R, II Edición [15h] (Curso de Verano, Universidad de Santiago de Compostela)</p>
 
-<p>Introduction in Geographic Information Systems with R [30h]  (University of Porto)</p>
+<p>Introducción en Sistemas de Información Geográfica y Cartografía con el entorno R [30h]  (University of Porto)</p>
 
 <ul>
 <li>2018</li>
 </ul>
 
-<p>Introduction in Geographic Information Systems and Cartography with R, I Edition [15h] (Summer School, University of Santiago de Compostela)</p>
+<p>Introducción en Sistemas de Información Geográfica y Cartografía con el entorno R, I Edición [15h] (Curso de Verano, Universidad de Santiago de Compostela)</p>
 
 <ul>
 <li>2014</li>
 </ul>
 
-<p>Practical applications of R with climatological data [25h] (University of Barcelona)</p>
+<p>Aplicaciones prácticas de R en datos climatológicos [25h] (University of Barcelona)</p>
 
-<p>Climatic applications of Geographic Information Systems [12h] (University of Santiago de Compostela)</p>
+<p>Aplicaciones climáticas de los Sistemas de Información Geográfica [12h] (University of Santiago de Compostela)</p>
 
 <ul>
 <li>2013</li>
 </ul>
 
-<p>Introduction to Statistics with R [20h] (University of Santiago de Compostela)</p>
+<p>Introducción en Estadística con R [20h] (University of Santiago de Compostela)</p>
 
-<p>Introduction in data management, manipulation, visualization and statistics with R [40h] (University of Barcelona)</p>
+<p>Introducción en Gestión, Manipulación, Visualización y Estadística con R [40h] (University of Barcelona)</p>
 
   </div>
   
