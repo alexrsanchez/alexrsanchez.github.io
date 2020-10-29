@@ -430,10 +430,10 @@
                                                               {maxWidth: "auto", maxHeight: "auto"});
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/SPEI-12_Zafarraya.png";
-    var Zafarraya_SPEI12 = L.marker([36.99031408, -4.15383888]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var zafarraya_SPEI12 = L.marker([36.99031408, -4.15383888]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
  
-    var SPEI12 = L.layerGroup([Campillos_SPEI12, Adamuz_SPEI12, Adra_SPEI12, Aguilas_SPEI12, Alcaudete_SPEI12, Almeria_SPEI12, Aroche_SPEI12, Baena_SPEI12, Baza_SPEI12, BasurtaJerez_SPEI12,
+    var spei12 = L.layerGroup([Campillos_SPEI12, Adamuz_SPEI12, Adra_SPEI12, Aguilas_SPEI12, Alcaudete_SPEI12, Almeria_SPEI12, Aroche_SPEI12, Baena_SPEI12, Baza_SPEI12, BasurtaJerez_SPEI12,
                                Baza_SPEI12, Belmez_SPEI12, Beniel_SPEI12, Cadiar_SPEI12, Cartama_SPEI12, Caudete_SPEI12, CharcodeTaray_SPEI12, ChiclanadeSegura_SPEI12, Churriana_SPEI12,
                               Cordoba_SPEI12, CuevasdeAlmanzora_SPEI12, ElCampillo_SPEI12, ElCarpio_SPEI12, Estepona_SPEI12, FincaTaray_SPEI12, Fiñana_SPEI12, FuenteAlamo_SPEI12, Gibraleon_SPEI12,
                               Hornachuelos_SPEI12, HuercalOvera_SPEI12, Huesa_SPEI12, Iznalloz_SPEI12, Jerez_SPEI12, JerezdelMarquesado_SPEI12, JerezdelosCaballeros_SPEI12, JimenadelaFrontera_SPEI12,
@@ -447,12 +447,12 @@
 
   var streets =  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
+    });
   
   var map = L.map('map',{
     center: [40.416829, -3.7035935],
     zoom: 10,
-    layers:[streets,SPEI12]
+    layers:[streets,spei12]
     });
   
   var baseMaps = {
@@ -460,7 +460,7 @@
   };
 
   var overlayMaps = {
-      "SPEI-12": SPEI12
+      "SPEI-12": spei12
   };
   L.control.layers(baseMaps, overlayMaps).addTo(map);
 
