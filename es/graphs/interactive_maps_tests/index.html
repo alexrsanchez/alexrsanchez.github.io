@@ -445,9 +445,12 @@
   
   
 
-  var streets =  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    });
+  var streets =  L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=' + mapboxAccessToken, {
+    id: 'mapbox/light-v9',
+    attribution: ...,
+    tileSize: 512,
+    zoomOffset: -1
+});
   
   var map = L.map('map',{
     center: [40.416829, -3.7035935],
