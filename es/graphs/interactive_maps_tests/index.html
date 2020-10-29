@@ -443,16 +443,18 @@
                               Santaella_SPEI12, SierradeYeguas_SPEI12, Tabernas_SPEI12, Torreblascopedro_SPEI12, Totana_SPEI12, Turilla_SPEI12, Ubeda_SPEI12, Valdeiñigos_SPEI12, VejerdelaFrontera_SPEI12,
                               VelezMalaga_SPEI12, Villamartin_SPEI12, Yecla_SPEI12, Zafarraya_SPEI12]);
   
-  var map = L.map('map',{
-    center: [40.416829, -3.7035935],
-    zoom: 10,
-    layers:[SPEI12]
-    });
+  
 
   var streets =  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
-
+  
+  var map = L.map('map',{
+    center: [40.416829, -3.7035935],
+    zoom: 10,
+    layers:[streets,SPEI12]
+    });
+  
   var baseMaps = {
       "Streets": streets,
   };
