@@ -133,8 +133,8 @@
             margin: 10px;
           }
           #map {
-           width: 960px;
-           height:500px;
+           width: 1240px;
+           height:700px;
           }
         </style>
     </head>
@@ -145,975 +145,975 @@
 <script type="text/javascript">
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesCampillos.png";
-    var campillos_0y20 = L.marker([37.0490398, -4.8825273]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var campillos_0y20 = L.marker([37.0490398, -4.8825273]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesAdamuz.png";
-    var adamuz_0y20 = L.marker([37.99823, -4.4466269]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var adamuz_0y20 = L.marker([37.99823, -4.4466269]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesAdra.png";
-    var adra_0y20 = L.marker([36.7473572, -2.9934895]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var adra_0y20 = L.marker([36.7473572, -2.9934895]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesAguilas.png";
-    var aguilas_0y20 = L.marker([37.4186559, -1.5922917]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var aguilas_0y20 = L.marker([37.4186559, -1.5922917]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesAlcaudete.png";
-    var alcaudete_0y20 = L.marker([37.5772754, -4.0784157]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var alcaudete_0y20 = L.marker([37.5772754, -4.0784157]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesAlmeria.png";
-    var almeria_0y20 = L.marker([36.8354149, -2.4026462]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var almeria_0y20 = L.marker([36.8354149, -2.4026462]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesAroche.png";
-    var aroche_0y20 = L.marker([37.95807696, -6.94499151]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var aroche_0y20 = L.marker([37.95807696, -6.94499151]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesBaena.png";
-    var baena_0y20 = L.marker([37.6916526, -4.3061329]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var baena_0y20 = L.marker([37.6916526, -4.3061329]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesBasurtaJerez.png";
-    var basurtaJerez_0y20 = L.marker([36.75706775, -6.0172463]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var basurtaJerez_0y20 = L.marker([36.75706775, -6.0172463]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesBaza.png";
-    var baza_0y20 = L.marker([37.5645067, -2.7678333]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var baza_0y20 = L.marker([37.5645067, -2.7678333]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesBelmez.png";
-    var belmez_0y20 = L.marker([38.254392, -5.2096614]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var belmez_0y20 = L.marker([38.254392, -5.2096614]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesBeniel.png";
-    var beniel_0y20 = L.marker([38.0344358, -0.9998293]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var beniel_0y20 = L.marker([38.0344358, -0.9998293]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesCadiar.png";
-    var cadiar_0y20 = L.marker([36.9231625, -3.1841055]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cadiar_0y20 = L.marker([36.9231625, -3.1841055]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesCartama.png";
-    var cartama_0y20 = L.marker([36.7169, -4.6783312]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cartama_0y20 = L.marker([36.7169, -4.6783312]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesCaudete.png";
-    var caudete_0y20 = L.marker([38.7347431, -0.9799931]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var caudete_0y20 = L.marker([38.7347431, -0.9799931]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesCharcodeTaray.png";
-    var charcodeTaray_0y20 = L.marker([38.1610173, -1.1528781]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var charcodeTaray_0y20 = L.marker([38.1610173, -1.1528781]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesChiclanadeSegura.png";
-    var chiclanadeSegura_0y20 = L.marker([38.3028651, -2.9965352]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var chiclanadeSegura_0y20 = L.marker([38.3028651, -2.9965352]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesChurriana.png";
-    var churriana_0y20 = L.marker([36.6737823, -4.503177]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var churriana_0y20 = L.marker([36.6737823, -4.503177]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesCordoba.png";
-    var cordoba_0y20 = L.marker([37.8569095, -4.8028768]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cordoba_0y20 = L.marker([37.8569095, -4.8028768]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesCuevasdeAlmanzora.png";
-    var cuevasdeAlmanzora_0y20 = L.marker([37.3890757, -1.7705019]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cuevasdeAlmanzora_0y20 = L.marker([37.3890757, -1.7705019]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesElCampillo.png";
-    var elCampillo_0y20 = L.marker([37.66098933, -6.59927192]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var elCampillo_0y20 = L.marker([37.66098933, -6.59927192]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesElCarpio.png";
-    var elCarpio_0y20 = L.marker([37.9139388, -4.5041648]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var elCarpio_0y20 = L.marker([37.9139388, -4.5041648]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesEstepona.png";
-    var estepona_0y20 = L.marker([36.4446994, -5.2099127]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var estepona_0y20 = L.marker([36.4446994, -5.2099127]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesFincaTaray.png";
-    var fincaTaray_0y20 = L.marker([38.0069893, -1.30254717]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var fincaTaray_0y20 = L.marker([38.0069893, -1.30254717]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesFiñana.png";
-    var fiñana_0y20 = L.marker([37.15671804, -2.83882767]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var fiñana_0y20 = L.marker([37.15671804, -2.83882767]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesFuenteAlamo.png";
-    var fuenteAlamo_0y20 = L.marker([37.74824134, -1.12925196]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var fuenteAlamo_0y20 = L.marker([37.74824134, -1.12925196]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesGibraleon.png";
-    var gibraleon_0y20 = L.marker([37.41235429, -7.05984095]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var gibraleon_0y20 = L.marker([37.41235429, -7.05984095]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesHornachuelos.png";
-    var hornachuelos_0y20 = L.marker([37.71986103, -5.16011561]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var hornachuelos_0y20 = L.marker([37.71986103, -5.16011561]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesHuercal-Overa.png";
-    var huercalOvera_0y20 = L.marker([37.41242763, -1.88428316]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var huercalOvera_0y20 = L.marker([37.41242763, -1.88428316]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesHuesa.png";
-    var huesa_0y20 = L.marker([37.74739173, -3.06167021]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var huesa_0y20 = L.marker([37.74739173, -3.06167021]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesIznalloz.png";
-    var iznalloz_0y20 = L.marker([37.41640639, -3.55145914]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var iznalloz_0y20 = L.marker([37.41640639, -3.55145914]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesJerez.png";
-    var jerez_0y20 = L.marker([36.64272178, -6.0134027]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var jerez_0y20 = L.marker([36.64272178, -6.0134027]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesJerezdelMarquesado.png";
-    var jerezdelMarquesado_0y20 = L.marker([37.19053597, -3.14986436]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var jerezdelMarquesado_0y20 = L.marker([37.19053597, -3.14986436]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesJimenadelaFrontera.png";
-    var jimenadelaFrontera_0y20 = L.marker([36.41364898, -5.38379992]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var jimenadelaFrontera_0y20 = L.marker([36.41364898, -5.38379992]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLaAljorra.png";
-    var laAljorra_0y20 = L.marker([37.6766591, -1.06290601]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laAljorra_0y20 = L.marker([37.6766591, -1.06290601]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLaHigueradeArjona.png";
-    var laHigueradeArjona_0y20 = L.marker([37.94877184, -4.00771137]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laHigueradeArjona_0y20 = L.marker([37.94877184, -4.00771137]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLaLuisiana.png";
-    var laLuisiana_0y20 = L.marker([37,52511272, -5.22813537]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laLuisiana_0y20 = L.marker([37,52511272, -5.22813537]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLaMojonera.png";
-    var laMojonera_0y20 = L.marker([36.78731768, -2.70438243]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laMojonera_0y20 = L.marker([36.78731768, -2.70438243]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLaPuebladeGuzman.png";
-    var laPuebladeGuzman_0y20 = L.marker([37.55217633, -7.24836548]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laPuebladeGuzman_0y20 = L.marker([37.55217633, -7.24836548]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLaPuebladelRio.png";
-    var laPuebladelRio_0y20 = L.marker([37.08017447, -6.04656909]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laPuebladelRio_0y20 = L.marker([37.08017447, -6.04656909]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLasCabezasdeSanJuan.png";
-    var lasCabezasdeSanJuan_0y20 = L.marker([37.01555974, -5.88472195]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var lasCabezasdeSanJuan_0y20 = L.marker([37.01555974, -5.88472195]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLoja.png";
-    var loja_0y20 = L.marker([37.16929992, -4.13812795]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var loja_0y20 = L.marker([37.16929992, -4.13812795]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLoradelRio.png";
-    var loradelRio_0y20 = L.marker([37.66090609, -5.54070374]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var loradelRio_0y20 = L.marker([37.66090609, -5.54070374]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLorca.png";
-    var lorca_0y20 = L.marker([37.60172439, -1.62945522]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var lorca_0y20 = L.marker([37.60172439, -1.62945522]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesMalaga.png";
-    var malaga_0y20 = L.marker([36.7565627, -4.53770948]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var malaga_0y20 = L.marker([36.7565627, -4.53770948]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesManchaReal.png";
-    var manchaReal_0y20 = L.marker([37.91642523, -3.59648044]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var manchaReal_0y20 = L.marker([37.91642523, -3.59648044]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesMonterrubiodelaSerena.png";
-    var monterrubiodelaSerena_0y20 = L.marker([38.59158204, -5.38361342]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var monterrubiodelaSerena_0y20 = L.marker([38.59158204, -5.38361342]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesMoratalla.png";
-    var moratalla_0y20 = L.marker([38.19665256, -1.81318598]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var moratalla_0y20 = L.marker([38.19665256, -1.81318598]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesNiebla.png";
-    var niebla_0y20 = L.marker([37.34712492, -6.73534784]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var niebla_0y20 = L.marker([37.34712492, -6.73534784]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesOlivenza.png";
-    var olivenza_0y20 = L.marker([38.72092072, -7.05782506]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var olivenza_0y20 = L.marker([38.72092072, -7.05782506]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesOntur.png";
-    var ontur_0y20 = L.marker([38.62286562, -1.49576881]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var ontur_0y20 = L.marker([38.62286562, -1.49576881]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesOsuna.png";
-    var osuna_0y20 = L.marker([37.25502961, -5.13483774]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var osuna_0y20 = L.marker([37.29602961, -5.13483774]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesPadul.png";
-    var padul_0y20 = L.marker([37.0187427, -3.60031696]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var padul_0y20 = L.marker([37.0187427, -3.60031696]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesPilardelaHoradada.png";
-    var pilardelaHoradada_0y20 = L.marker([37.86858793, -0.81252839]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var pilardelaHoradada_0y20 = L.marker([37.86858793, -0.81252839]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesPizarra.png";
-    var pizarra_0y20 = L.marker([36.76666516, -4.71518482]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var pizarra_0y20 = L.marker([36.76666516, -4.71518482]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesPuebladeDonFabrique.png";
-    var puebladeDonFabrique_0y20 = L.marker([37.87611505, -2.38171756]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var puebladeDonFabrique_0y20 = L.marker([37.87611505, -2.38171756]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesPuertoLumbreras.png";
-    var puertoLumbreras_0y20 = L.marker([37.50376296, -1.69387844]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var puertoLumbreras_0y20 = L.marker([37.50376296, -1.69387844]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesSabiote.png";
-    var sabiote_0y20 = L.marker([38.07948243, -3.23550058]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sabiote_0y20 = L.marker([38.07948243, -3.23960058]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesSanJosedelosPropios.png";
-    var sanJosedelosPropios_0y20 = L.marker([37.85795493, -3.23029231]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sanJosedelosPropios_0y20 = L.marker([37.85795493, -3.23029231]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesSanlucarLaMayor.png";
-    var sanlucarLaMayor_0y20 = L.marker([37.42179036, -6.25507492]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sanlucarLaMayor_0y20 = L.marker([37.42179036, -6.29607492]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesSantaella.png";
-    var santaella_0y20 = L.marker([37.52243056, -4.88550616]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var santaella_0y20 = L.marker([37.52243056, -4.88960616]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesSierradeYeguas.png";
-    var sierradeYeguas_0y20 = L.marker([37.1250513, -4.8680497]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sierradeYeguas_0y20 = L.marker([37.1250513, -4.8680497]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesTabernas.png";
-    var tabernas_0y20 = L.marker([37.09131542, -2.30237549]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var tabernas_0y20 = L.marker([37.09131542, -2.30237549]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesTorreblascopedro.png";
-    var torreblascopedro_0y20 = L.marker([37.98874154, -3.68933067]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var torreblascopedro_0y20 = L.marker([37.98874154, -3.68933067]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesTotana.png";
-    var totana_0y20 = L.marker([37.73244087, -1.5131051]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var totana_0y20 = L.marker([37.73244087, -1.5131051]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesTurilla.png";
-    var turilla_0y20 = L.marker([37.85557972, -1.8177666]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var turilla_0y20 = L.marker([37.85557972, -1.8177666]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesUbeda.png";
-    var ubeda_0y20 = L.marker([37.9428797, -3.30047066]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var ubeda_0y20 = L.marker([37.9428797, -3.30047066]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesVejerdelaFrontera.png";
-    var vejerdelaFrontera_0y20 = L.marker([36.28506429, -5.84003732]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var vejerdelaFrontera_0y20 = L.marker([36.28506429, -5.85403732]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesVelezMalaga.png";
-    var velezMalaga_0y20 = L.marker([36.79609353, -4.13166266]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var velezMalaga_0y20 = L.marker([36.79609353, -4.13166266]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesVillamartin.png";
-    var villamartin_0y20 = L.marker([36.84309608, -5.62372825]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var villamartin_0y20 = L.marker([36.84309608, -5.62372825]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesYecla.png";
-    var yecla_0y20 = L.marker([38.65892926, -1.18588065]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var yecla_0y20 = L.marker([38.65892926, -1.18588065]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesZafarraya.png";
-    var zafarraya_0y20 = L.marker([36.99031408, -4.15383888]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var zafarraya_0y20 = L.marker([36.99031408, -4.15383888]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasCampillos.png";
-    var campillos_heladas = L.marker([37.0490398, -4.8825273]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var campillos_heladas = L.marker([37.0490398, -4.8825273]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasAdamuz.png";
-    var adamuz_heladas = L.marker([37.99823, -4.4466269]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var adamuz_heladas = L.marker([37.99823, -4.4466269]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasAdra.png";
-    var adra_heladas = L.marker([36.7473572, -2.9934895]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var adra_heladas = L.marker([36.7473572, -2.9934895]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasAguilas.png";
-    var aguilas_heladas = L.marker([37.4186559, -1.5922917]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var aguilas_heladas = L.marker([37.4186559, -1.5922917]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasAlcaudete.png";
-    var alcaudete_heladas = L.marker([37.5772754, -4.0784157]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var alcaudete_heladas = L.marker([37.5772754, -4.0784157]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasAlmeria.png";
-    var almeria_heladas = L.marker([36.8354149, -2.4026462]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var almeria_heladas = L.marker([36.8354149, -2.4026462]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasAroche.png";
-    var aroche_heladas = L.marker([37.95807696, -6.94499151]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var aroche_heladas = L.marker([37.95807696, -6.94499151]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasBaena.png";
-    var baena_heladas = L.marker([37.6916526, -4.3061329]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var baena_heladas = L.marker([37.6916526, -4.3061329]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasBasurtaJerez.png";
-    var basurtaJerez_heladas = L.marker([36.75706775, -6.0172463]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var basurtaJerez_heladas = L.marker([36.75706775, -6.0172463]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasBaza.png";
-    var baza_heladas = L.marker([37.5645067, -2.7678333]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var baza_heladas = L.marker([37.5645067, -2.7678333]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasBelmez.png";
-    var belmez_heladas = L.marker([38.254392, -5.2096614]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var belmez_heladas = L.marker([38.254392, -5.2096614]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasBeniel.png";
-    var beniel_heladas = L.marker([38.0344358, -0.9998293]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var beniel_heladas = L.marker([38.0344358, -0.9998293]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasCadiar.png";
-    var cadiar_heladas = L.marker([36.9231625, -3.1841055]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cadiar_heladas = L.marker([36.9231625, -3.1841055]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasCartama.png";
-    var cartama_heladas = L.marker([36.7169, -4.6783312]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cartama_heladas = L.marker([36.7169, -4.6783312]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasCaudete.png";
-    var caudete_heladas = L.marker([38.7347431, -0.9799931]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var caudete_heladas = L.marker([38.7347431, -0.9799931]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasCharcodeTaray.png";
-    var charcodeTaray_heladas = L.marker([38.1610173, -1.1528781]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var charcodeTaray_heladas = L.marker([38.1610173, -1.1528781]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasChiclanadeSegura.png";
-    var chiclanadeSegura_heladas = L.marker([38.3028651, -2.9965352]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var chiclanadeSegura_heladas = L.marker([38.3028651, -2.9965352]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasChurriana.png";
-    var churriana_heladas = L.marker([36.6737823, -4.503177]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var churriana_heladas = L.marker([36.6737823, -4.503177]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasCordoba.png";
-    var cordoba_heladas = L.marker([37.8569095, -4.8028768]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cordoba_heladas = L.marker([37.8569095, -4.8028768]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasCuevasdeAlmanzora.png";
-    var cuevasdeAlmanzora_heladas = L.marker([37.3890757, -1.7705019]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cuevasdeAlmanzora_heladas = L.marker([37.3890757, -1.7705019]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasElCampillo.png";
-    var elCampillo_heladas = L.marker([37.66098933, -6.59927192]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var elCampillo_heladas = L.marker([37.66098933, -6.59927192]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasElCarpio.png";
-    var elCarpio_heladas = L.marker([37.9139388, -4.5041648]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var elCarpio_heladas = L.marker([37.9139388, -4.5041648]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasEstepona.png";
-    var estepona_heladas = L.marker([36.4446994, -5.2099127]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var estepona_heladas = L.marker([36.4446994, -5.2099127]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasFincaTaray.png";
-    var fincaTaray_heladas = L.marker([38.0069893, -1.30254717]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var fincaTaray_heladas = L.marker([38.0069893, -1.30254717]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasFiñana.png";
-    var fiñana_heladas = L.marker([37.15671804, -2.83882767]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var fiñana_heladas = L.marker([37.15671804, -2.83882767]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasFuenteAlamo.png";
-    var fuenteAlamo_heladas = L.marker([37.74824134, -1.12925196]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var fuenteAlamo_heladas = L.marker([37.74824134, -1.12925196]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasGibraleon.png";
-    var gibraleon_heladas = L.marker([37.41235429, -7.05984095]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var gibraleon_heladas = L.marker([37.41235429, -7.05984095]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasHornachuelos.png";
-    var hornachuelos_heladas = L.marker([37.71986103, -5.16011561]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var hornachuelos_heladas = L.marker([37.71986103, -5.16011561]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasHuercal-Overa.png";
-    var huercalOvera_heladas = L.marker([37.41242763, -1.88428316]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var huercalOvera_heladas = L.marker([37.41242763, -1.88428316]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasHuesa.png";
-    var huesa_heladas = L.marker([37.74739173, -3.06167021]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var huesa_heladas = L.marker([37.74739173, -3.06167021]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasIznalloz.png";
-    var iznalloz_heladas = L.marker([37.41640639, -3.55145914]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var iznalloz_heladas = L.marker([37.41640639, -3.55145914]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasJerez.png";
-    var jerez_heladas = L.marker([36.64272178, -6.0134027]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var jerez_heladas = L.marker([36.64272178, -6.0134027]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasJerezdelMarquesado.png";
-    var jerezdelMarquesado_heladas = L.marker([37.19053597, -3.14986436]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var jerezdelMarquesado_heladas = L.marker([37.19053597, -3.14986436]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasJimenadelaFrontera.png";
-    var jimenadelaFrontera_heladas = L.marker([36.41364898, -5.38379992]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var jimenadelaFrontera_heladas = L.marker([36.41364898, -5.38379992]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLaAljorra.png";
-    var laAljorra_heladas = L.marker([37.6766591, -1.06290601]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laAljorra_heladas = L.marker([37.6766591, -1.06290601]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLaHigueradeArjona.png";
-    var laHigueradeArjona_heladas = L.marker([37.94877184, -4.00771137]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laHigueradeArjona_heladas = L.marker([37.94877184, -4.00771137]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLaLuisiana.png";
-    var laLuisiana_heladas = L.marker([37,52511272, -5.22813537]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laLuisiana_heladas = L.marker([37,52511272, -5.22813537]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLaMojonera.png";
-    var laMojonera_heladas = L.marker([36.78731768, -2.70438243]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laMojonera_heladas = L.marker([36.78731768, -2.70438243]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLaPuebladeGuzman.png";
-    var laPuebladeGuzman_heladas = L.marker([37.55217633, -7.24836548]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laPuebladeGuzman_heladas = L.marker([37.55217633, -7.24836548]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLaPuebladelRio.png";
-    var laPuebladelRio_heladas = L.marker([37.08017447, -6.04656909]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laPuebladelRio_heladas = L.marker([37.08017447, -6.04656909]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLasCabezasdeSanJuan.png";
-    var lasCabezasdeSanJuan_heladas = L.marker([37.01555974, -5.88472195]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var lasCabezasdeSanJuan_heladas = L.marker([37.01555974, -5.88472195]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLoja.png";
-    var loja_heladas = L.marker([37.16929992, -4.13812795]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var loja_heladas = L.marker([37.16929992, -4.13812795]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLoradelRio.png";
-    var loradelRio_heladas = L.marker([37.66090609, -5.54070374]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var loradelRio_heladas = L.marker([37.66090609, -5.54070374]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLorca.png";
-    var lorca_heladas = L.marker([37.60172439, -1.62945522]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var lorca_heladas = L.marker([37.60172439, -1.62945522]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasMalaga.png";
-    var malaga_heladas = L.marker([36.7565627, -4.53770948]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var malaga_heladas = L.marker([36.7565627, -4.53770948]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasManchaReal.png";
-    var manchaReal_heladas = L.marker([37.91642523, -3.59648044]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var manchaReal_heladas = L.marker([37.91642523, -3.59648044]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasMonterrubiodelaSerena.png";
-    var monterrubiodelaSerena_heladas = L.marker([38.59158204, -5.38361342]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var monterrubiodelaSerena_heladas = L.marker([38.59158204, -5.38361342]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasMoratalla.png";
-    var moratalla_heladas = L.marker([38.19665256, -1.81318598]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var moratalla_heladas = L.marker([38.19665256, -1.81318598]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasNiebla.png";
-    var niebla_heladas = L.marker([37.34712492, -6.73534784]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var niebla_heladas = L.marker([37.34712492, -6.73534784]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasOlivenza.png";
-    var olivenza_heladas = L.marker([38.72092072, -7.05782506]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var olivenza_heladas = L.marker([38.72092072, -7.05782506]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasOntur.png";
-    var ontur_heladas = L.marker([38.62286562, -1.49576881]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var ontur_heladas = L.marker([38.62286562, -1.49576881]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasOsuna.png";
-    var osuna_heladas = L.marker([37.25502961, -5.13483774]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var osuna_heladas = L.marker([37.29602961, -5.13483774]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasPadul.png";
-    var padul_heladas = L.marker([37.0187427, -3.60031696]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var padul_heladas = L.marker([37.0187427, -3.60031696]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasPilardelaHoradada.png";
-    var pilardelaHoradada_heladas = L.marker([37.86858793, -0.81252839]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var pilardelaHoradada_heladas = L.marker([37.86858793, -0.81252839]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasPizarra.png";
-    var pizarra_heladas = L.marker([36.76666516, -4.71518482]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var pizarra_heladas = L.marker([36.76666516, -4.71518482]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasPuebladeDonFabrique.png";
-    var puebladeDonFabrique_heladas = L.marker([37.87611505, -2.38171756]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var puebladeDonFabrique_heladas = L.marker([37.87611505, -2.38171756]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasPuertoLumbreras.png";
-    var puertoLumbreras_heladas = L.marker([37.50376296, -1.69387844]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var puertoLumbreras_heladas = L.marker([37.50376296, -1.69387844]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasSabiote.png";
-    var sabiote_heladas = L.marker([38.07948243, -3.23550058]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sabiote_heladas = L.marker([38.07948243, -3.23960058]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasSanJosedelosPropios.png";
-    var sanJosedelosPropios_heladas = L.marker([37.85795493, -3.23029231]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sanJosedelosPropios_heladas = L.marker([37.85795493, -3.23029231]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasSanlucarLaMayor.png";
-    var sanlucarLaMayor_heladas = L.marker([37.42179036, -6.25507492]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sanlucarLaMayor_heladas = L.marker([37.42179036, -6.29607492]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasSantaella.png";
-    var santaella_heladas = L.marker([37.52243056, -4.88550616]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var santaella_heladas = L.marker([37.52243056, -4.88960616]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasSierradeYeguas.png";
-    var sierradeYeguas_heladas = L.marker([37.1250513, -4.8680497]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sierradeYeguas_heladas = L.marker([37.1250513, -4.8680497]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasTabernas.png";
-    var tabernas_heladas = L.marker([37.09131542, -2.30237549]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var tabernas_heladas = L.marker([37.09131542, -2.30237549]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasTorreblascopedro.png";
-    var torreblascopedro_heladas = L.marker([37.98874154, -3.68933067]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var torreblascopedro_heladas = L.marker([37.98874154, -3.68933067]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasTotana.png";
-    var totana_heladas = L.marker([37.73244087, -1.5131051]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var totana_heladas = L.marker([37.73244087, -1.5131051]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasTurilla.png";
-    var turilla_heladas = L.marker([37.85557972, -1.8177666]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var turilla_heladas = L.marker([37.85557972, -1.8177666]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasUbeda.png";
-    var ubeda_heladas = L.marker([37.9428797, -3.30047066]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var ubeda_heladas = L.marker([37.9428797, -3.30047066]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasVejerdelaFrontera.png";
-    var vejerdelaFrontera_heladas = L.marker([36.28506429, -5.84003732]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var vejerdelaFrontera_heladas = L.marker([36.28506429, -5.85403732]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasVelezMalaga.png";
-    var velezMalaga_heladas = L.marker([36.79609353, -4.13166266]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var velezMalaga_heladas = L.marker([36.79609353, -4.13166266]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasVillamartin.png";
-    var villamartin_heladas = L.marker([36.84309608, -5.62372825]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var villamartin_heladas = L.marker([36.84309608, -5.62372825]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasYecla.png";
-    var yecla_heladas = L.marker([38.65892926, -1.18588065]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var yecla_heladas = L.marker([38.65892926, -1.18588065]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasZafarraya.png";
-    var zafarraya_heladas = L.marker([36.99031408, -4.15383888]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var zafarraya_heladas = L.marker([36.99031408, -4.15383888]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
    
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesCampillos.png";
-    var campillos_tropicales = L.marker([37.0490398, -4.8825273]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var campillos_tropicales = L.marker([37.0490398, -4.8825273]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesAdamuz.png";
-    var adamuz_tropicales = L.marker([37.99823, -4.4466269]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var adamuz_tropicales = L.marker([37.99823, -4.4466269]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesAdra.png";
-    var adra_tropicales = L.marker([36.7473572, -2.9934895]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var adra_tropicales = L.marker([36.7473572, -2.9934895]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesAguilas.png";
-    var aguilas_tropicales = L.marker([37.4186559, -1.5922917]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var aguilas_tropicales = L.marker([37.4186559, -1.5922917]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesAlcaudete.png";
-    var alcaudete_tropicales = L.marker([37.5772754, -4.0784157]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var alcaudete_tropicales = L.marker([37.5772754, -4.0784157]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesAlmeria.png";
-    var almeria_tropicales = L.marker([36.8354149, -2.4026462]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var almeria_tropicales = L.marker([36.8354149, -2.4026462]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesAroche.png";
-    var aroche_tropicales = L.marker([37.95807696, -6.94499151]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var aroche_tropicales = L.marker([37.95807696, -6.94499151]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesBaena.png";
-    var baena_tropicales = L.marker([37.6916526, -4.3061329]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var baena_tropicales = L.marker([37.6916526, -4.3061329]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesBasurtaJerez.png";
-    var basurtaJerez_tropicales = L.marker([36.75706775, -6.0172463]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var basurtaJerez_tropicales = L.marker([36.75706775, -6.0172463]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesBaza.png";
-    var baza_tropicales = L.marker([37.5645067, -2.7678333]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var baza_tropicales = L.marker([37.5645067, -2.7678333]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesBelmez.png";
-    var belmez_tropicales = L.marker([38.254392, -5.2096614]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var belmez_tropicales = L.marker([38.254392, -5.2096614]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesBeniel.png";
-    var beniel_tropicales = L.marker([38.0344358, -0.9998293]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var beniel_tropicales = L.marker([38.0344358, -0.9998293]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesCadiar.png";
-    var cadiar_tropicales = L.marker([36.9231625, -3.1841055]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cadiar_tropicales = L.marker([36.9231625, -3.1841055]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesCartama.png";
-    var cartama_tropicales = L.marker([36.7169, -4.6783312]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cartama_tropicales = L.marker([36.7169, -4.6783312]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesCaudete.png";
-    var caudete_tropicales = L.marker([38.7347431, -0.9799931]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var caudete_tropicales = L.marker([38.7347431, -0.9799931]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesCharcodeTaray.png";
-    var charcodeTaray_tropicales = L.marker([38.1610173, -1.1528781]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var charcodeTaray_tropicales = L.marker([38.1610173, -1.1528781]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesChiclanadeSegura.png";
-    var chiclanadeSegura_tropicales = L.marker([38.3028651, -2.9965352]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var chiclanadeSegura_tropicales = L.marker([38.3028651, -2.9965352]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesChurriana.png";
-    var churriana_tropicales = L.marker([36.6737823, -4.503177]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var churriana_tropicales = L.marker([36.6737823, -4.503177]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesCordoba.png";
-    var cordoba_tropicales = L.marker([37.8569095, -4.8028768]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cordoba_tropicales = L.marker([37.8569095, -4.8028768]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesCuevasdeAlmanzora.png";
-    var cuevasdeAlmanzora_tropicales = L.marker([37.3890757, -1.7705019]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var cuevasdeAlmanzora_tropicales = L.marker([37.3890757, -1.7705019]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesElCampillo.png";
-    var elCampillo_tropicales = L.marker([37.66098933, -6.59927192]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var elCampillo_tropicales = L.marker([37.66098933, -6.59927192]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesElCarpio.png";
-    var elCarpio_tropicales = L.marker([37.9139388, -4.5041648]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var elCarpio_tropicales = L.marker([37.9139388, -4.5041648]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesEstepona.png";
-    var estepona_tropicales = L.marker([36.4446994, -5.2099127]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var estepona_tropicales = L.marker([36.4446994, -5.2099127]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesFincaTaray.png";
-    var fincaTaray_tropicales = L.marker([38.0069893, -1.30254717]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var fincaTaray_tropicales = L.marker([38.0069893, -1.30254717]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesFiñana.png";
-    var fiñana_tropicales = L.marker([37.15671804, -2.83882767]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var fiñana_tropicales = L.marker([37.15671804, -2.83882767]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesFuenteAlamo.png";
-    var fuenteAlamo_tropicales = L.marker([37.74824134, -1.12925196]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var fuenteAlamo_tropicales = L.marker([37.74824134, -1.12925196]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesGibraleon.png";
-    var gibraleon_tropicales = L.marker([37.41235429, -7.05984095]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var gibraleon_tropicales = L.marker([37.41235429, -7.05984095]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesHornachuelos.png";
-    var hornachuelos_tropicales = L.marker([37.71986103, -5.16011561]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var hornachuelos_tropicales = L.marker([37.71986103, -5.16011561]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesHuercal-Overa.png";
-    var huercalOvera_tropicales = L.marker([37.41242763, -1.88428316]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var huercalOvera_tropicales = L.marker([37.41242763, -1.88428316]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesHuesa.png";
-    var huesa_tropicales = L.marker([37.74739173, -3.06167021]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var huesa_tropicales = L.marker([37.74739173, -3.06167021]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesIznalloz.png";
-    var iznalloz_tropicales = L.marker([37.41640639, -3.55145914]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var iznalloz_tropicales = L.marker([37.41640639, -3.55145914]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesJerez.png";
-    var jerez_tropicales = L.marker([36.64272178, -6.0134027]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var jerez_tropicales = L.marker([36.64272178, -6.0134027]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesJerezdelMarquesado.png";
-    var jerezdelMarquesado_tropicales = L.marker([37.19053597, -3.14986436]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var jerezdelMarquesado_tropicales = L.marker([37.19053597, -3.14986436]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesJimenadelaFrontera.png";
-    var jimenadelaFrontera_tropicales = L.marker([36.41364898, -5.38379992]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var jimenadelaFrontera_tropicales = L.marker([36.41364898, -5.38379992]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLaAljorra.png";
-    var laAljorra_tropicales = L.marker([37.6766591, -1.06290601]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laAljorra_tropicales = L.marker([37.6766591, -1.06290601]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLaHigueradeArjona.png";
-    var laHigueradeArjona_tropicales = L.marker([37.94877184, -4.00771137]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laHigueradeArjona_tropicales = L.marker([37.94877184, -4.00771137]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLaLuisiana.png";
-    var laLuisiana_tropicales = L.marker([37,52511272, -5.22813537]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laLuisiana_tropicales = L.marker([37,52511272, -5.22813537]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLaMojonera.png";
-    var laMojonera_tropicales = L.marker([36.78731768, -2.70438243]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laMojonera_tropicales = L.marker([36.78731768, -2.70438243]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLaPuebladeGuzman.png";
-    var laPuebladeGuzman_tropicales = L.marker([37.55217633, -7.24836548]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laPuebladeGuzman_tropicales = L.marker([37.55217633, -7.24836548]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLaPuebladelRio.png";
-    var laPuebladelRio_tropicales = L.marker([37.08017447, -6.04656909]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var laPuebladelRio_tropicales = L.marker([37.08017447, -6.04656909]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLasCabezasdeSanJuan.png";
-    var lasCabezasdeSanJuan_tropicales = L.marker([37.01555974, -5.88472195]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var lasCabezasdeSanJuan_tropicales = L.marker([37.01555974, -5.88472195]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLoja.png";
-    var loja_tropicales = L.marker([37.16929992, -4.13812795]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var loja_tropicales = L.marker([37.16929992, -4.13812795]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLoradelRio.png";
-    var loradelRio_tropicales = L.marker([37.66090609, -5.54070374]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var loradelRio_tropicales = L.marker([37.66090609, -5.54070374]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLorca.png";
-    var lorca_tropicales = L.marker([37.60172439, -1.62945522]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var lorca_tropicales = L.marker([37.60172439, -1.62945522]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesMalaga.png";
-    var malaga_tropicales = L.marker([36.7565627, -4.53770948]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var malaga_tropicales = L.marker([36.7565627, -4.53770948]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesManchaReal.png";
-    var manchaReal_tropicales = L.marker([37.91642523, -3.59648044]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var manchaReal_tropicales = L.marker([37.91642523, -3.59648044]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesMonterrubiodelaSerena.png";
-    var monterrubiodelaSerena_tropicales = L.marker([38.59158204, -5.38361342]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var monterrubiodelaSerena_tropicales = L.marker([38.59158204, -5.38361342]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesMoratalla.png";
-    var moratalla_tropicales = L.marker([38.19665256, -1.81318598]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var moratalla_tropicales = L.marker([38.19665256, -1.81318598]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesNiebla.png";
-    var niebla_tropicales = L.marker([37.34712492, -6.73534784]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var niebla_tropicales = L.marker([37.34712492, -6.73534784]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesOlivenza.png";
-    var olivenza_tropicales = L.marker([38.72092072, -7.05782506]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var olivenza_tropicales = L.marker([38.72092072, -7.05782506]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesOntur.png";
-    var ontur_tropicales = L.marker([38.62286562, -1.49576881]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var ontur_tropicales = L.marker([38.62286562, -1.49576881]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesOsuna.png";
-    var osuna_tropicales = L.marker([37.25502961, -5.13483774]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var osuna_tropicales = L.marker([37.29602961, -5.13483774]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesPadul.png";
-    var padul_tropicales = L.marker([37.0187427, -3.60031696]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var padul_tropicales = L.marker([37.0187427, -3.60031696]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesPilardelaHoradada.png";
-    var pilardelaHoradada_tropicales = L.marker([37.86858793, -0.81252839]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var pilardelaHoradada_tropicales = L.marker([37.86858793, -0.81252839]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesPizarra.png";
-    var pizarra_tropicales = L.marker([36.76666516, -4.71518482]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var pizarra_tropicales = L.marker([36.76666516, -4.71518482]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesPuebladeDonFabrique.png";
-    var puebladeDonFabrique_tropicales = L.marker([37.87611505, -2.38171756]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var puebladeDonFabrique_tropicales = L.marker([37.87611505, -2.38171756]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesPuertoLumbreras.png";
-    var puertoLumbreras_tropicales = L.marker([37.50376296, -1.69387844]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var puertoLumbreras_tropicales = L.marker([37.50376296, -1.69387844]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesSabiote.png";
-    var sabiote_tropicales = L.marker([38.07948243, -3.23550058]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sabiote_tropicales = L.marker([38.07948243, -3.23960058]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesSanJosedelosPropios.png";
-    var sanJosedelosPropios_tropicales = L.marker([37.85795493, -3.23029231]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sanJosedelosPropios_tropicales = L.marker([37.85795493, -3.23029231]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesSanlucarLaMayor.png";
-    var sanlucarLaMayor_tropicales = L.marker([37.42179036, -6.25507492]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sanlucarLaMayor_tropicales = L.marker([37.42179036, -6.29607492]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesSantaella.png";
-    var santaella_tropicales = L.marker([37.52243056, -4.88550616]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var santaella_tropicales = L.marker([37.52243056, -4.88960616]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesSierradeYeguas.png";
-    var sierradeYeguas_tropicales = L.marker([37.1250513, -4.8680497]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var sierradeYeguas_tropicales = L.marker([37.1250513, -4.8680497]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesTabernas.png";
-    var tabernas_tropicales = L.marker([37.09131542, -2.30237549]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var tabernas_tropicales = L.marker([37.09131542, -2.30237549]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesTorreblascopedro.png";
-    var torreblascopedro_tropicales = L.marker([37.98874154, -3.68933067]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var torreblascopedro_tropicales = L.marker([37.98874154, -3.68933067]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesTotana.png";
-    var totana_tropicales = L.marker([37.73244087, -1.5131051]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var totana_tropicales = L.marker([37.73244087, -1.5131051]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesTurilla.png";
-    var turilla_tropicales = L.marker([37.85557972, -1.8177666]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var turilla_tropicales = L.marker([37.85557972, -1.8177666]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesUbeda.png";
-    var ubeda_tropicales = L.marker([37.9428797, -3.30047066]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var ubeda_tropicales = L.marker([37.9428797, -3.30047066]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesVejerdelaFrontera.png";
-    var vejerdelaFrontera_tropicales = L.marker([36.28506429, -5.84003732]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var vejerdelaFrontera_tropicales = L.marker([36.28506429, -5.85403732]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesVelezMalaga.png";
-    var velezMalaga_tropicales = L.marker([36.79609353, -4.13166266]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var velezMalaga_tropicales = L.marker([36.79609353, -4.13166266]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesVillamartin.png";
-    var villamartin_tropicales = L.marker([36.84309608, -5.62372825]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var villamartin_tropicales = L.marker([36.84309608, -5.62372825]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesYecla.png";
-    var yecla_tropicales = L.marker([38.65892926, -1.18588065]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var yecla_tropicales = L.marker([38.65892926, -1.18588065]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesZafarraya.png";
-    var zafarraya_tropicales = L.marker([36.99031408, -4.15383888]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var zafarraya_tropicales = L.marker([36.99031408, -4.15383888]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"})
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesZalameadelaSerena.png";
-    var zalamea_0y20 = L.marker([38.67870435, -5.69102759]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var zalamea_0y20 = L.marker([38.67870435, -5.69102759]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesVillagonzalo.png";
-    var villagonzalo_0y20 = L.marker([38.83724659, -6.18587383]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var villagonzalo_0y20 = L.marker([38.83724659, -6.18587383]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesValdeiñigos.png";
-    var valdeiñigos_0y20 = L.marker([39.96004205, -5.86003585]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var valdeiñigos_0y20 = L.marker([39.96004205, -5.86003585]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesMadrigalejo.png";
-    var madrigalejo_0y20 = L.marker([39.13584741, -5.59543915]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var madrigalejo_0y20 = L.marker([39.13584741, -5.59543915]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});  
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLepe.png";
-    var lepe_0y20 = L.marker([37.30268478, -7.24308252]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var lepe_0y20 = L.marker([37.30268478, -7.24308252]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesLaRinconada.png";
-    var larinconada_0y20 = L.marker([37.45683201, -5.92483898]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var larinconada_0y20 = L.marker([37.45683201, -5.92483898]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                                              {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesGuillena.png";
-    var guillena_0y20 = L.marker([37.51456806, -6.06418995]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var guillena_0y20 = L.marker([37.51456806, -6.06418995]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                                           {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesCasatejada.png";
-    var casatejada_0y20 = L.marker([39.86782355, -5.67809998]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var casatejada_0y20 = L.marker([39.86782355, -5.67809998]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasytropicalesAldehueladelJerte.png";
-    var aldehueladeljerte_0y20 = L.marker([40.00831609, -6.23023457]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var aldehueladeljerte_0y20 = L.marker([40.00831609, -6.23023457]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"}); 
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasZalameadelaSerena.png";
-    var zalamea_heladas = L.marker([38.67870435, -5.69102759]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var zalamea_heladas = L.marker([38.67870435, -5.69102759]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasVillagonzalo.png";
-    var villagonzalo_heladas = L.marker([38.83724659, -6.18587383]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var villagonzalo_heladas = L.marker([38.83724659, -6.18587383]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasValdeiñigos.png";
-    var valdeiñigos_heladas = L.marker([39.96004205, -5.86003585]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var valdeiñigos_heladas = L.marker([39.96004205, -5.86003585]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasMadrigalejo.png";
-    var madrigalejo_heladas = L.marker([39.13584741, -5.59543915]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var madrigalejo_heladas = L.marker([39.13584741, -5.59543915]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});  
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLepe.png";
-    var lepe_heladas = L.marker([37.30268478, -7.24308252]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var lepe_heladas = L.marker([37.30268478, -7.24308252]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasLaRinconada.png";
-    var larinconada_heladas = L.marker([37.45683201, -5.92483898]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var larinconada_heladas = L.marker([37.45683201, -5.92483898]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                                              {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasGuillena.png";
-    var guillena_heladas = L.marker([37.51456806, -6.06418995]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var guillena_heladas = L.marker([37.51456806, -6.06418995]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                                           {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasCasatejada.png";
-    var casatejada_heladas = L.marker([39.86782355, -5.67809998]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var casatejada_heladas = L.marker([39.86782355, -5.67809998]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/HeladasAldehueladelJerte.png";
-    var aldehueladeljerte_heladas = L.marker([40.00831609, -6.23023457]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var aldehueladeljerte_heladas = L.marker([40.00831609, -6.23023457]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});     
 
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesZalameadelaSerena.png";
-    var zalamea_tropicales = L.marker([38.67870435, -5.69102759]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var zalamea_tropicales = L.marker([38.67870435, -5.69102759]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesVillagonzalo.png";
-    var villagonzalo_tropicales = L.marker([38.83724659, -6.18587383]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var villagonzalo_tropicales = L.marker([38.83724659, -6.18587383]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesValdeiñigos.png";
-    var valdeiñigos_tropicales = L.marker([39.96004205, -5.86003585]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var valdeiñigos_tropicales = L.marker([39.96004205, -5.86003585]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesMadrigalejo.png";
-    var madrigalejo_tropicales = L.marker([39.13584741, -5.59543915]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var madrigalejo_tropicales = L.marker([39.13584741, -5.59543915]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});  
  
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLepe.png";
-    var lepe_tropicales = L.marker([37.30268478, -7.24308252]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var lepe_tropicales = L.marker([37.30268478, -7.24308252]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesLaRinconada.png";
-    var larinconada_tropicales = L.marker([37.45683201, -5.92483898]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var larinconada_tropicales = L.marker([37.45683201, -5.92483898]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                                              {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesGuillena.png";
-    var guillena_tropicales = L.marker([37.51456806, -6.06418995]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var guillena_tropicales = L.marker([37.51456806, -6.06418995]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                                           {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesCasatejada.png";
-    var casatejada_tropicales = L.marker([39.86782355, -5.67809998]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var casatejada_tropicales = L.marker([39.86782355, -5.67809998]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"});  
   
     var icon_url = "https://raw.githubusercontent.com/alexrsanchez/GraficosMapa/master/TropicalesAldehueladelJerte.png";
-    var aldehueladeljerte_tropicales = L.marker([40.00831609, -6.23023457]).bindPopup("<img src='" + icon_url + "' width=550 height=400/>",
+    var aldehueladeljerte_tropicales = L.marker([40.00831609, -6.23023457]).bindPopup("<img src='" + icon_url + "' width=960 height=540/>",
                                                               {maxWidth: "auto", maxHeight: "auto"}); 
    
 
@@ -1156,7 +1156,7 @@
  
     var map = L.map('map',{
       center: [40.416829, -3.7035935],
-      zoom: 10,
+      zoom: 7,
       layers: [heladasytropicales,heladas,tropicales]
       });
 
