@@ -161,16 +161,20 @@
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }),
 
-    Places: L.tileLayer.wms('http://localhost:8080/thredds/wms/testpcp/Splines_anomalias_pcp_anual_timeaxis.nc?service=WMS&version=1.3.0&request=GetCapabilities', {
-        layers: 'Current year anomalies'
+    Hidro: L.tileLayer.wms('http://localhost:8080/thredds/wms/testpcp/Splines_anomalias_pcp_hidro_timeaxis.nc?service=WMS&version=1.3.0&request=GetCapabilities', {
+        layers: 'Current water year anomalies'
     }),
 
-    'Topography, then places': L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
+    Annual: L.tileLayer.wms('http://localhost:8080/thredds/wms/testpcp/Splines_anomalias_pcp_anual_timeaxis.nc?service=WMS&version=1.3.0&request=GetCapabilities', {
+        layers: 'Current year anomalies'
+    }),
+    
+    'Topography, then Hidro': L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
         layers: 'TOPO-WMS,OSM-Overlay-WMS'
     }),
 
-    'Places, then topography': L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
-        layers: 'OSM-Overlay-WMS,TOPO-WMS'
+    'Topography, then Annual': L.tileLayer.wms('http://localhost:8080/thredds/wms/testpcp/Splines_anomalias_pcp_anual_timeaxis.nc?service=WMS&version=1.3.0&request=GetCapabilities', {
+        layers: 'Current year anomalies'
     })
 };
 
