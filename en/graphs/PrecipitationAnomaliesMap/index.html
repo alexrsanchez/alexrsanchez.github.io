@@ -152,29 +152,6 @@
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-
-// Create & add WMS-layer.
-var tasmania = new L.TileLayer.WMS('http://localhost:8080/thredds/wms/testpcp/Splines_anomalias_pcp_hidro_timeaxis.nc?service=WMS&version=1.3.0&request=GetCapabilities', {
-  layers: 'Splines_anomalias_pcp_hidro_timeaxis.nc',
-  format: 'image/png',
-  transparent: true,
-  version: '1.3.0',
-  crs: L.CRS.EPSG4326
-}).addTo(map);
-  
-
-// Perform 'GetCapabilities' request.
-tasmania.getCapabilities({
-  done: function(capabilities) {
-  console.log('getCapabilitiessucceed: ', capabilities);
-  },
-  fail: function(errorThrown) {
-  console.log('getCapabilitiesfailed: ', errorThrown);
-  },
-  always: function() {
-  console.log('getCapabilitiesfinished');
-  }
-});
   
   </script>
   
