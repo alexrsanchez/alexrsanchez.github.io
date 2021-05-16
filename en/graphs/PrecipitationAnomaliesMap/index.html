@@ -170,10 +170,6 @@
     'Topography, then places': L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
         layers: 'TOPO-WMS,OSM-Overlay-WMS'
     }),
-
-    'Places, then topography': L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
-        layers: 'OSM-Overlay-WMS,TOPO-WMS'
-    })
 };
 
 L.control.layers(basemaps).addTo(map);
