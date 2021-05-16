@@ -162,6 +162,20 @@ var tasmania = new L.TileLayer.WMS('http://localhost:8080/thredds/wms/testpcp/Sp
   crs: L.CRS.EPSG4326
 }).addTo(map);
   
+
+// Perform 'GetCapabilities' request.
+tasmania.getCapabilities({
+  done: function(capabilities) {
+  console.log('getCapabilitiessucceed: ', capabilities);
+  },
+  fail: function(errorThrown) {
+  console.log('getCapabilitiesfailed: ', errorThrown);
+  },
+  always: function() {
+  console.log('getCapabilitiesfinished');
+  }
+});
+  
   </script>
   
   
