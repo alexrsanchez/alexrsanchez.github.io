@@ -149,8 +149,8 @@
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
   
-    
-   var basemaps = {
+  
+  var basemaps = {
     Topography: L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
         layers: 'TOPO-WMS'
     }),
@@ -160,7 +160,7 @@
     }),
 
     Hidro: L.tileLayer.wms('http://localhost:8080/thredds/wms/testpcp/Splines_anomalias_pcp_hidro_timeaxis.nc?service=WMS&version=1.3.0&request=GetCapabilities', {
-        layers: 'OSM-Overlay-WMS'
+        layers: 'Splines_anomalias_pcp_hidro_timeaxis.nc'
     }),
 
     Annual: L.tileLayer.wms('http://localhost:8080/thredds/wms/testpcp/Splines_anomalias_pcp_anual_timeaxis.nc?service=WMS&version=1.3.0&request=GetCapabilities', {
