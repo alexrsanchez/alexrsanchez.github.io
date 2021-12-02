@@ -6,7 +6,7 @@
     <description>Recent content in Air quality on Alejandro Rodríguez Sánchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018-2021 Alejandro Rodríguez Sánchez. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alexrsanchez.github.io/en/tags/alexrsanchez/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,11 @@
     <item>
       <title>A very short introduction to Tidyverse</title>
       <link>https://dominicroye.github.io/en/2020/a-very-short-introduction-to-tidyverse/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dominicroye.github.io/en/2020/a-very-short-introduction-to-tidyverse/</guid>
-      <description>The tidyverse universe of packages, a collection of packages specially focused on data science, marked a milestone in R programming. In this post I am going to summarize very briefly the most essential to start in this world. The tidyverse grammar follows a common structure in all functions. The most essential thing is that the first argument is the object and then come the rest of the arguments. In addition, a set of verbs is provided to facilitate the use of the functions. The tidyverse philosophy and grammar of functions structure is also reflected in other packages that make its use compatible with the collection of tidyverse.</description>
+      <guid>https://alexrsanchez.github.io/en/publication/avoided_mortality_improved_air_quality/</guid>
+      <description> This paper assesses the health impact, in terms of the reduction of premature deaths associated with changes in air pollutant exposure, resulting from double-aim strategies for reducing emissions of greenhouse gases and air pollutants from the transport sector for the year 2030 in Spain. The impact on air quality of selected measures for reducing emissions from the transport sector (increased penetration of biofuel and electric car use) was assessed by air quality modeling. The estimation of population exposure to NO2, particulate matter (PM) and O3 allows for estimation of associated mortality and external costs in comparison with the baseline scenario with no measures. The results show that the penetration of the electric vehicle provided the largest benefits, even when the emissions due to the additional electricity demand were considered.</description>
     </item>
-    
+    	  
   </channel>
 </rss>
